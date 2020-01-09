@@ -1,8 +1,7 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
-use-site-title: true
+title: CMPS 3140 Introduction to Artificial Intelligence
+subtitle: Spring 2020, Tulane University
 published: true
 ---
 ## Introduction to Artificial Intelligence
@@ -26,7 +25,7 @@ View site on [Github](https://github.com/TulaneIntroDataScience/TulaneIntroDataS
 **Teaching Assistant:** Arie Glazier
 *   Email: <aglazier@tulane.edu>
 *   Office: Stanley Thomas 309
-*   Office Hours: MW 1400-1500
+*   Office Hours: TBD
 
 ## Catalog / Course Description
 
