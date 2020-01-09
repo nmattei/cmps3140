@@ -17,13 +17,12 @@ Tulane University
 * **Webpage:** [https://nmattei.github.io/cmps3140/](https://nmattei.github.io/cmps3140/)
 
 ## Instructor and TA Information
-
-**Instructor:** Dr. Nicholas Mattei
+* **Instructor:** Dr. Nicholas Mattei
 *   Email: <nsmattei@tulane.edu>
 *   Office: Stanley Thomas 402B
 *   Office Hours: TBD
 
-**Teaching Assistant:** Arie Glazier
+* **Teaching Assistant:** Arie Glazier
 *   Email: <aglazier@tulane.edu>
 *   Office: Stanley Thomas 309
 *   Office Hours: TBD
