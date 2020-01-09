@@ -1,19 +1,20 @@
 ---
 layout: page
-title: CMPS 3140 Introduction to Artificial Intelligence
-subtitle: Spring 2020, Tulane University
+title: Intro. to Artificial Intelligence
+subtitle: CMPS 3140/3640 - Spring 2020
 published: true
 ---
 ## Introduction to Artificial Intelligence
-CMPS-3140-02: Introduction to Artificial Intelligence - Spring 2020 - 3 Credit Hours
-
-View site on [Github](https://github.com/TulaneIntroDataScience/TulaneIntroDataScience.github.io) or [Github Pages](https://tulaneintrodatascience.github.io/)
+CMPS 3140 / 3640
+Spring 2020
+3 Credit Hours
+Tulane University
 
 ## Time and Location
 * **Lectures:** Tuesdays and Thursdays 
 * **Room:** Stanley Thomas 302 ([Building 10](https://tulane.edu/maps-directions))
-* **Time:** 1100 - 1215
-* **Webpage:** [https://rebrand.ly/TUDataScience](https://rebrand.ly/TUDataScience)
+* **Time:** 0930 - 1045
+* **Webpage:** [https://nmattei.github.io/cmps3140/](https://nmattei.github.io/cmps3140/)
 
 ## Instructor and TA Information
 
@@ -29,25 +30,32 @@ View site on [Github](https://github.com/TulaneIntroDataScience/TulaneIntroDataS
 
 ## Catalog / Course Description
 
+The aim of this course is to provide the student with an introduction to the main concepts and techniques playing a key role in the modern arena of artificial intelligence. In addition to covering the main topics that concern modern AI, particular attention will be devoted to its applications in several fields. Among the topics covered are: "What is an intelligent artificial agent?", problem solving using search and constraint satisfaction, uncertainty, Bayesian networks and probabilistic inference, supervised learning, planning, sequential decision problems, as well as several additional topics.
 
-## Course Objectives and Overview:
+Prerequisite(s): CMPS 1500 and CMPS/MATH 2170
+
+## Course Objectives and Overview
 
 
+## Course Learning Outcomes
 
-## Course Learning Outcomes:
 
-
-## Program-Level Outcomes:
+## Program-Level Outcomes
 
 This course fulfills the requirement of **one** of the CMPS 3000-level or above courses required for the coordinate major in computer science.  Students need to complete three such courses in order to complete the requirements for a coordinate major.  For more information on the coordinate major please see the requirements at [the Registrar's Website](https://catalog.tulane.edu/science-engineering/computer-science/computer-science-coordinate-major/#requirementstext)
 
-## Required and Suggested Student Resources			
+## Required and Suggested Student Resources
+
+It is **very strongly suggested** that you obtain the course book.
+
+Artificial Intelligence: A Modern Approach (third edition), Prentice Hall, 2009.
+
+By Stuart Russell and Peter Norvig [Website](http://aima.cs.berkeley.edu/).
 
 
 ## Evaluation Procedures and Grading Criteria
 
-
-**Late Work Policy:**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **10% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**  
+**Late Work Policy:**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **20% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**  
 
 **Final Grade Policy:** The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
 * A >= 90%
@@ -68,9 +76,7 @@ Please silence your cellphones during class.  If you want to use a laptop or oth
 
 ## Schedule
 
-
-## Additional Resources for Data Science Students
-
+See the [Schedule Page](https://nmattei.github.io/cmps3140/schedule) for the schedule and assignments.
 
 ## ADA / Accessibility Statement
 

@@ -21,7 +21,7 @@ description: Tulane University, Spring 2020
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Schedule: "schedule"
+  Schedule & Assignments: "schedule"
   Links & Resources: "resources"
 
 # Image to show in the navigation bar - image must be a square (width = height)
