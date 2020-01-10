@@ -8,7 +8,7 @@ Links to other versions of this course and additional reading.  I have borrowed 
 
 Anca Dragan's Course at [UC Berkeley Fall 2019](http://inst.eecs.berkeley.edu/~cs188/fa19/)
 
-Dan Klein and Peter Abbeel's older course at [UC Berkeley](http://ai.berkeley.edu/home.html)
+Dan Klein and Peter Abbeel's older course at [UC Berkeley](http://ai.berkeley.edu/home.html) and [Fall 2018 Version](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)
 
 Subbarao Kambhampati's Course at [ASU Fall 2019](http://rakaposhi.eas.asu.edu/cse471/)
 

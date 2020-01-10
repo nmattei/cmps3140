@@ -17,12 +17,12 @@ Tulane University
 * **Webpage:** [https://nmattei.github.io/cmps3140/](https://nmattei.github.io/cmps3140/)
 
 ## Instructor and TA Information
-* **Instructor:** Dr. Nicholas Mattei
+**Instructor:** Dr. Nicholas Mattei
 *   Email: <nsmattei@tulane.edu>
 *   Office: Stanley Thomas 402B
 *   Office Hours: TBD
 
-* **Teaching Assistant:** Arie Glazier
+**Teaching Assistant:** Arie Glazier
 *   Email: <aglazier@tulane.edu>
 *   Office: Stanley Thomas 309
 *   Office Hours: TBD
@@ -33,11 +33,16 @@ The aim of this course is to provide the student with an introduction to the mai
 
 Prerequisite(s): CMPS 1500 and CMPS/MATH 2170
 
-## Course Objectives and Overview
-
 
 ## Course Learning Outcomes
 
+At the conclusion of this course students will be able to:
+* Define and intelligent agent and be able to identify the different environmental factors at play in the design of an agent.
+* Be able to describe when and how to use search techniques including uninformed search and heuristic search.
+* Be able to define the nature of information in an adversarial environment.
+* Be able to define and use one or more forms of logical entailment and resolution to solve problems.
+*   Build an autonomous agent that efficiently makes decisions in fully informed, partially observable, and adversarial environments.
+*   Build an autonomous agent that is able to draw inferences in uncertain environments and optimize actions for arbitrary reward structures.
 
 ## Program-Level Outcomes
 
@@ -54,7 +59,21 @@ By Stuart Russell and Peter Norvig [Website](http://aima.cs.berkeley.edu/).
 
 ## Evaluation Procedures and Grading Criteria
 
-**Late Work Policy:**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **20% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**  
+This course will consist of four distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
+*   5% - In Class Activities and Participation
+*   20% - Written Homeworks
+*   30% - Projects
+*   20% - Midterm Exam
+*   20% - Final Exam
+
+**Projects.** We will be using a subset of the PAC
+
+**Midterm Exam:** This will be a written, close book, in class exam.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  This will be turned in with your exam.
+
+
+**Late Work Policy.**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **20% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
+
+**Late Tokens.** At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for programming projects only.  Each token is worth one additional day, to use at your discretion.  These tokens have no cash value.
 
 **Final Grade Policy:** The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
 * A >= 90%
@@ -64,6 +83,7 @@ By Stuart Russell and Peter Norvig [Website](http://aima.cs.berkeley.edu/).
 * F < 60% 
 
 **All grades will be posted on [Canvas](https://tulane.instructure.com/) throughout the semester.**
+
 
 ## Attendance
 
