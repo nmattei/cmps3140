@@ -52,7 +52,7 @@ This course fulfills the requirement of **one** of the CMPS 3000-level or above 
 
 ## Required and Suggested Student Resources
 
-It is **very strongly suggested** that you obtain the course book.
+It is **very strongly suggested** that you obtain the course book.  I will be posting the chapters corresponding to the lectures in class and may occasionally post homework problems from the book.  If you have an interest in AI this book is really a fundamental reference text.
 
 Artificial Intelligence: A Modern Approach (third edition), Prentice Hall, 2009.
 
@@ -72,7 +72,9 @@ This course will consist of four distinct grading areas.  Note that all point va
 
 **Written Homeworks.** We will have between 8-10 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
 
-**Projects.** We will be using a subset of the [PacMan projects](https://inst.eecs.berkeley.edu/~cs188/fa19/projects/) originally created for the UC: Berkeley CS188 Intro to AI Course.  Note that we are going to use the newer Python 3.x versions so please make sure you use the links from this web-page to find them.  
+**Projects.** We will be using a subset of the [PacMan projects](https://inst.eecs.berkeley.edu/~cs188/fa19/projects/) originally created for the UC: Berkeley CS188 Intro to AI Course.  Note that we are going to use the newer Python 3.x versions so please make sure you use the links from this web-page to find them. 
+
+**Graduate Students.** Taking this course will be given one additional programming project towards the second half of the course. 
 
 **Midterm Exam and Final Exam.** These will be written, close book, in class exam and the final during the scheduled final period.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  This will be turned in with your exam.  **You must earn at least a 65% average between the two exams to pass the course.**
 
@@ -80,7 +82,7 @@ This course will consist of four distinct grading areas.  Note that all point va
 
 **Late Tokens.** At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for programming projects only.  Each token is worth one additional day, to use at your discretion.  These tokens have no cash value.
 
-**Final Grade Policy:** The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
+**Final Grade Policy.** The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
 * A >= 90%
 * B >= 80%
 * C >= 70%
