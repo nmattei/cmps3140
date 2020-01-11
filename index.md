@@ -33,7 +33,7 @@ The aim of this course is to provide the student with an introduction to the mai
 
 Prerequisite(s): CMPS 1500 and CMPS/MATH 2170
 
-**Note** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and is expected.
+**Note.** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and is expected.
 
 
 ## Course Learning Outcomes
@@ -72,7 +72,7 @@ This course will consist of four distinct grading areas.  Note that all point va
 
 **Written Homeworks.** We will have between 8-10 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
 
-**Projects.** We will be using a subset of the PAC
+**Projects.** We will be using a subset of the [PacMan projects](https://inst.eecs.berkeley.edu/~cs188/fa19/projects/) originally created for the UC: Berkeley CS188 Intro to AI Course.  Note that we are going to use the newer Python 3.x versions so please make sure you use the links from this web-page to find them.  
 
 **Midterm Exam and Final Exam.** These will be written, close book, in class exam and the final during the scheduled final period.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  This will be turned in with your exam.  **You must earn at least a 65% average between the two exams to pass the course.**
 

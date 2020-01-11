@@ -6,14 +6,106 @@ published: true
 
 # Projects
 
-If you need to install Linux and you have Windows 10 an easy way is to use the Linux Subsystem -- use [this guide](https://www.dataquest.io/blog/tutorial-install-linux-on-windows-wsl/).
+If you need to install Linux and you have Windows 10 an easy way is to use the Linux Subsystem -- [use this guide.](https://www.dataquest.io/blog/tutorial-install-linux-on-windows-wsl/)
 
-If you were in the Data Science class last year and are comfortable with Docker you can download the standard Ubuntu image from [DockerHub](https://hub.docker.com/_/ubuntu) and follow the same directions (replacing the image in the directions discussed [here](https://github.com/TulaneIntroDataScience/fall2019/tree/master/project0))
+If you were in the Data Science class last year and are comfortable with Docker you can download the standard Ubuntu image from [DockerHub (Link)](https://hub.docker.com/_/ubuntu) and follow the [same directions as for the data science class (replacing the image in the directions discussed)](https://github.com/TulaneIntroDataScience/fall2019/tree/master/project0).
+
+
+<table>
+  <tr>
+   <td><strong>Project</strong>
+   </td>
+   <td><strong>Due Date</strong>
+   </td>
+   <td><strong>Link</strong>
+   </td>
+   <td><strong>Notes</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>0
+   </td>
+   <td>1/23
+   </td>
+   <td><a href="https://inst.eecs.berkeley.edu/~cs188/fa18/project0.html">Intro to Python and Unix/Linux and Autograder</a>
+   </td>
+   <td>Turn in through <a href="https://tulane.instructure.com/">Canvas</a>.  You should submit a Zip file that contains all of the files for the project as well as a screen shot (either image or the text copy and pasted into a text file) of the output of the autograder named LASTNAME-Autograder.
+   </td>
+  </tr>
+  <tr>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>2
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
 
 # Homeworks
 
 
+<table>
+  <tr>
+   <td><strong>Homework</strong>
+   </td>
+   <td><strong>Due Date</strong>
+   </td>
+   <td><strong>Link</strong>
+   </td>
+   <td><strong>Notes</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>0
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>2
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+
 # Schedule of Lectures and Slides
+
 
 <table>
   <tr>
@@ -31,7 +123,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>1/14
    </td>
-   <td>Course Overview / Intro to AI
+   <td>Course Overview / Intro to AI (RN Ch. 1)
    </td>
    <td>
    </td>
@@ -41,7 +133,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>1/16
    </td>
-   <td>Intelligent Agents / Problem Solving
+   <td>Intelligent Agents / Problem Solving (RN Ch. 2)
    </td>
    <td>
    </td>
@@ -51,7 +143,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>1/21
    </td>
-   <td>Uninformed Search
+   <td>Uninformed Search 
    </td>
    <td>
    </td>
@@ -111,7 +203,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>2/11
    </td>
-   <td>Prof. Mattei @ AAAI
+   <td><strong>Prof. Mattei @ AAAI - Arie will Lecture.</strong>
    </td>
    <td>
    </td>
@@ -151,7 +243,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>2/25
    </td>
-   <td>No Class - Mardi Gras
+   <td><strong>No Class - Mardi Gras</strong>
    </td>
    <td>
    </td>
@@ -181,7 +273,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>3/5
    </td>
-   <td>Midterm - In Class
+   <td><strong>Midterm - In Class</strong>
    </td>
    <td>
    </td>
@@ -271,7 +363,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>4/7
    </td>
-   <td>No Class - Spring Break
+   <td><strong>No Class - Spring Break</strong>
    </td>
    <td>
    </td>
