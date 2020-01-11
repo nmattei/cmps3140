@@ -27,11 +27,13 @@ Tulane University
 *   Office: Stanley Thomas 309
 *   Office Hours: TBD
 
-## Catalog / Course Description
+## Overview / Catalog Course Description
 
 The aim of this course is to provide the student with an introduction to the main concepts and techniques playing a key role in the modern arena of artificial intelligence. In addition to covering the main topics that concern modern AI, particular attention will be devoted to its applications in several fields. Among the topics covered are: "What is an intelligent artificial agent?", problem solving using search and constraint satisfaction, uncertainty, Bayesian networks and probabilistic inference, supervised learning, planning, sequential decision problems, as well as several additional topics.
 
 Prerequisite(s): CMPS 1500 and CMPS/MATH 2170
+
+**Note** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and is expected.
 
 
 ## Course Learning Outcomes
@@ -62,14 +64,17 @@ By Stuart Russell and Peter Norvig [Website](http://aima.cs.berkeley.edu/).
 This course will consist of four distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
 *   5% - In Class Activities and Participation
 *   20% - Written Homeworks
-*   30% - Projects
+*   35% - Projects
 *   20% - Midterm Exam
 *   20% - Final Exam
 
+**In Class Activities and Participation.** Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing.
+
+**Written Homeworks.** We will have between 8-10 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
+
 **Projects.** We will be using a subset of the PAC
 
-**Midterm Exam:** This will be a written, close book, in class exam.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  This will be turned in with your exam.
-
+**Midterm Exam and Final Exam.** These will be written, close book, in class exam and the final during the scheduled final period.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  This will be turned in with your exam.  **You must earn at least a 65% average between the two exams to pass the course.**
 
 **Late Work Policy.**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **20% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
 
@@ -83,7 +88,6 @@ This course will consist of four distinct grading areas.  Note that all point va
 * F < 60% 
 
 **All grades will be posted on [Canvas](https://tulane.instructure.com/) throughout the semester.**
-
 
 ## Attendance
 
