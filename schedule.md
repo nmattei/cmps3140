@@ -4,7 +4,7 @@ title: Spring 2020 Schedule
 published: true
 ---
 
-# Projects
+## Projects
 
 If you need to install Linux and you have Windows 10 an easy way is to use the Linux Subsystem -- [use this guide.](https://www.dataquest.io/blog/tutorial-install-linux-on-windows-wsl/)
 
@@ -56,7 +56,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
 
 
 
-# Homeworks
+## Homeworks
 
 
 <table>
@@ -104,7 +104,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
 
 
 
-# Schedule of Lectures and Slides
+## Schedule of Lectures and Slides
 
 
 <table>
@@ -113,33 +113,35 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td><strong>Date</strong>
    </td>
-   <td><strong>Topic</strong>
+   <td><strong>Topic + Chapters</strong>
    </td>
    <td><strong>Slides and Notes</strong>
    </td>
   </tr>
   <tr>
-   <td>1
+   <td rowspan="2" >1
    </td>
    <td>1/14
    </td>
-   <td>Course Overview / Intro to AI (RN Ch. 1)
+   <td>Course Overview / Intro to AI 
+<p>
+(RN Ch. 1)
    </td>
-   <td>
+   <td><a href="./_slides/01Lecture.pptx">Intro to AI</a>
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
    <td>1/16
    </td>
-   <td>Intelligent Agents / Problem Solving (RN Ch. 2)
+   <td>Intelligent Agents / Problem Solving 
+<p>
+(RN Ch. 2)
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>2
+   <td rowspan="2" >2
    </td>
    <td>1/21
    </td>
@@ -149,8 +151,6 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
    <td>1/23
    </td>
    <td>Uninformed Search / Informed Search A*
@@ -159,7 +159,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
   </tr>
   <tr>
-   <td>3
+   <td rowspan="2" >3
    </td>
    <td>1/28
    </td>
@@ -169,77 +169,71 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
    <td>1/30
    </td>
-   <td>
+   <td>Local Search / Optimization
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>4
+   <td rowspan="2" >4
    </td>
    <td>2/4
    </td>
-   <td>
+   <td>Utility, Game Trees, MiniMax
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
    <td>2/6
    </td>
-   <td>
+   <td>Expectimax, adversarial search
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>5
+   <td rowspan="2" >5
    </td>
    <td>2/11
    </td>
    <td><strong>Prof. Mattei @ AAAI - Arie will Lecture.</strong>
+<p>
+Logical Agents / Propositional Logic
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
    <td>2/13
    </td>
-   <td>
+   <td>First Order Logic
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>6
+   <td rowspan="2" >6
    </td>
    <td>2/18
    </td>
-   <td>
+   <td>First Order Logic
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
    <td>2/20
    </td>
-   <td>
+   <td>Planning (deterministic), Prolog?
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>7
+   <td rowspan="2" >7
    </td>
    <td>2/25
    </td>
@@ -249,11 +243,9 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
    <td>2/27
    </td>
-   <td>
+   <td>CSPs
    </td>
    <td>
    </td>
@@ -263,7 +255,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>3/3
    </td>
-   <td>
+   <td>CPSs
    </td>
    <td>
    </td>
@@ -283,7 +275,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>3/10
    </td>
-   <td>
+   <td>Probability, Decision Theory, BNs
    </td>
    <td>
    </td>
@@ -293,7 +285,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>3/12
    </td>
-   <td>
+   <td>BNs, Representation
    </td>
    <td>
    </td>
@@ -303,7 +295,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>3/17
    </td>
-   <td>
+   <td>BNs, Inference
    </td>
    <td>
    </td>
@@ -313,7 +305,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>3/19
    </td>
-   <td>
+   <td>MDPs
    </td>
    <td>
    </td>
@@ -323,7 +315,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>3/24
    </td>
-   <td>
+   <td>MDPs
    </td>
    <td>
    </td>
@@ -333,7 +325,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>3/26
    </td>
-   <td>
+   <td>RL
    </td>
    <td>
    </td>
@@ -343,7 +335,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>3/31
    </td>
-   <td>
+   <td>RL
    </td>
    <td>
    </td>
@@ -353,7 +345,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>4/2
    </td>
-   <td>
+   <td>RL
    </td>
    <td>
    </td>
@@ -373,7 +365,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>4/10
    </td>
-   <td>No Class - Spring Break
+   <td><strong>No Class - Spring Break</strong>
    </td>
    <td>
    </td>
@@ -383,7 +375,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>4/14
    </td>
-   <td>
+   <td>Probabilistic Reasoning over time
    </td>
    <td>
    </td>
@@ -393,27 +385,25 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>4/16
    </td>
-   <td>
+   <td>ML + Naive Bayes
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>15
+   <td rowspan="2" >15
    </td>
    <td>4/21
    </td>
-   <td>
+   <td>Slack
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
    <td>4/23
    </td>
-   <td>
+   <td>Slack
    </td>
    <td>
    </td>
@@ -423,7 +413,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>4/28
    </td>
-   <td>
+   <td>Recap and Outro
    </td>
    <td>
    </td>
@@ -439,5 +429,3 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
   </tr>
 </table>
-
-

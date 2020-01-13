@@ -33,7 +33,7 @@ The aim of this course is to provide the student with an introduction to the mai
 
 Prerequisite(s): CMPS 1500 and CMPS/MATH 2170
 
-**Note.** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and is expected.
+**Note.** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and an understanding of basic algorithms is expected.
 
 
 ## Course Learning Outcomes
@@ -41,8 +41,8 @@ Prerequisite(s): CMPS 1500 and CMPS/MATH 2170
 At the conclusion of this course students will be able to:
 * Define and intelligent agent and be able to identify the different environmental factors at play in the design of an agent.
 * Be able to describe when and how to use search techniques including uninformed search and heuristic search.
-* Be able to define the nature of information in an adversarial environment.
-* Be able to define and use one or more forms of logical entailment and resolution to solve problems.
+* Define the nature of information in an adversarial environment.
+* Define and use one or more forms of logical entailment and resolution to solve problems.
 *   Build an autonomous agent that efficiently makes decisions in fully informed, partially observable, and adversarial environments.
 *   Build an autonomous agent that is able to draw inferences in uncertain environments and optimize actions for arbitrary reward structures.
 
@@ -63,20 +63,20 @@ By Stuart Russell and Peter Norvig [Website](http://aima.cs.berkeley.edu/).
 
 This course will consist of four distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
 *   5% - In Class Activities and Participation
-*   20% - Written Homeworks
-*   35% - Projects
-*   20% - Midterm Exam
-*   20% - Final Exam
+*   15% - Written Homeworks
+*   30% - Projects
+*   25% - Midterm Exam
+*   25% - Final Exam
 
 **In Class Activities and Participation.** Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing.
 
-**Written Homeworks.** We will have between 8-10 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
+**Written Homeworks.** We will have between 6-8 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
 
 **Projects.** We will be using a subset of the [PacMan projects](https://inst.eecs.berkeley.edu/~cs188/fa19/projects/) originally created for the UC: Berkeley CS188 Intro to AI Course.  Note that we are going to use the newer Python 3.x versions so please make sure you use the links from this web-page to find them. 
 
 **Graduate Students.** Taking this course will be given one additional programming project towards the second half of the course. 
 
-**Midterm Exam and Final Exam.** These will be written, close book, in class exam and the final during the scheduled final period.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  This will be turned in with your exam.  **You must earn at least a 65% average between the two exams to pass the course.**
+**Midterm and Final Exams.** These will be written, close book, in class exam and the final during the scheduled final period.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  This will be turned in with your exam.  **You must earn at least a 60% average between the two exams to pass the course.**
 
 **Late Work Policy.**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **20% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
 
