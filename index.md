@@ -20,12 +20,12 @@ Tulane University
 **Instructor:** Dr. Nicholas Mattei
 *   Email: <nsmattei@tulane.edu>
 *   Office: Stanley Thomas 402B
-*   Office Hours: TBD
+*   Office Hours: T and R 1500 - 1600
 
 **Teaching Assistant:** Arie Glazier
 *   Email: <aglazier@tulane.edu>
 *   Office: Stanley Thomas 309
-*   Office Hours: TBD
+*   Office Hours: M and W 1000 - 1100
 
 ## Overview / Catalog Course Description
 
