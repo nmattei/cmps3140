@@ -17,8 +17,9 @@ Note that there seems to be some issues with TKinter and newer versions of Pytho
 |:-------:|:--------:|----|-----|
 | 0 | 1/23 | [Intro to Python and Unix/Linux and Autograder](https://inst.eecs.berkeley.edu/~cs188/fa18/project0.html) | Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains all of the files for the project as well as a screen shot (either image or the text copy and pasted into a text file) of the output of the autograder named LASTNAME-Autograder. |
 | 1 | ?? | [Pacman Search](https://inst.eecs.berkeley.edu/~cs188/fa18/project1.html) | N/A |
-| 2 | ?? | [Multi-Agent Search](https://inst.eecs.berkeley.edu/~cs188/fa18/project2.html) | N/A | 3 | ?? | [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html) | Will likely only do some of the questions from this project.
-| 4 | ?? | [Ghostbusters](https://inst.eecs.berkeley.edu/~cs188/fa18/project4.html) | Will likely only do some of the questions from this project.
+| 2 | ?? | [Multi-Agent Search](https://inst.eecs.berkeley.edu/~cs188/fa18/project2.html) | N/A |
+| 3 | ?? | [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html) | Will likely only do some of the questions from this project. |
+| 4 | ?? | [Ghostbusters](https://inst.eecs.berkeley.edu/~cs188/fa18/project4.html) | Will likely only do some of the questions from this project. |
 
 
 
