@@ -10,6 +10,8 @@ If you need to install Linux and you have Windows 10 an easy way is to use the L
 
 If you were in the Data Science class last year and are comfortable with Docker you can download the standard Ubuntu image from [DockerHub (Link)](https://hub.docker.com/_/ubuntu) and follow the [same directions as for the data science class (replacing the image in the directions discussed)](https://github.com/TulaneIntroDataScience/fall2019/tree/master/project0).
 
+Note that there seems to be some issues with TKinter and newer versions of Python (above 3.7) on the newest version of MacOS.  If your computer randomly logs you out when you try to run PacMan then [please try the tips here](https://www.python.org/download/mac/tcltk/#built-in-8-6-8), or simply downgrade Tkinter using the command: conda install tk=8.6.7
+
 
 <table>
   <tr>
@@ -109,12 +111,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
 
 <table>
   <tr>
-   <td><strong>Week</strong>
-   </td>
-   <td><strong>Date</strong>
-   </td>
-   <td><strong>Topic + Chapters</strong>
-   </td>
+   <td><strong>Week</strong> </td>  <td><strong>Date</strong></td> <td><strong>Topic + Chapters</strong> </td>
    <td><strong>Slides and Notes</strong>
    </td>
   </tr>
@@ -127,13 +124,13 @@ If you were in the Data Science class last year and are comfortable with Docker 
 <p>
 (RN Ch. 1)
    </td>
-   <td><a href="./_slides/01Lecture.pptx">Intro to AI</a>
+   <td> [Intro to AI](./_slides/Lecture1.pdf)
    </td>
   </tr>
   <tr>
    <td>1/16
    </td>
-   <td>Intelligent Agents / Problem Solving 
+   <td>More Intro to AI / Intelligent Agents
 <p>
 (RN Ch. 2)
    </td>
@@ -145,7 +142,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
    </td>
    <td>1/21
    </td>
-   <td>Uninformed Search 
+   <td>Intelligent Agents / Agent Architectures
    </td>
    <td>
    </td>
@@ -153,7 +150,7 @@ If you were in the Data Science class last year and are comfortable with Docker 
   <tr>
    <td>1/23
    </td>
-   <td>Uninformed Search / Informed Search A*
+   <td>Uninformed Search 
    </td>
    <td>
    </td>
