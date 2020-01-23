@@ -27,7 +27,7 @@ Note that there seems to be some issues with TKinter and newer versions of Pytho
 
 | Homework | Due Date | Link | Notes |
 |:-------:|:--------:|:----:|-----|
-| 0 | 1/30 | [Homework 0 PDF](https://drive.google.com/open?id=1_77f8tlNijptywrurYECEyVqUnwfB5qY)  |  |
+| 0 | 1/30 | [Homework 0 PDF](https://drive.google.com/open?id=13UQLGkp9Q2dBVC4YaZDDnkJN1XzErL8I)  |  |
 | 1 | ?? |  |  |
 | 2 | ?? |  |  |
 
