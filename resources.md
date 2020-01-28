@@ -18,4 +18,6 @@ Vincent Conitzer's Course at [Duke Spring 2019](http://www2.cs.duke.edu/courses/
 
 Lirong Xia's Course at [RPI Spring 2019](https://www.cs.rpi.edu/~xial/Teaching/2019SAI/)
 
+Yair Zick's Course at [NUS](https://www.comp.nus.edu.sg/~zick/teaching.html)
+
 Also thanks to [Prof. K. Brent Venable](https://sites.google.com/site/kbrentvenable/) and [Prof. Jihun Hamm](http://www.cs.tulane.edu/~jhamm3/) for sharing their versions of this course with me.

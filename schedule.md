@@ -36,21 +36,21 @@ Note that there seems to be some issues with TKinter and newer versions of Pytho
 
 | Date | Topic + Chapters | Resource Links |
 |:----:|----------------|:--------------:|
-| 1/14 | Course Overview / What is AI? <br /> RN Ch 1 | [Intro to AI](./_slides/01Lecture.pdf)|
+| 1/14 | Course Overview / What is AI? <br /> RN Ch 1 | [Intro to AI](https://drive.google.com/file/d/1WpJboEkPtSjf1tvTrFCfoKOo3MlaeAo6/view?usp=sharing)|
 | 1/16 | AI v. ML, History of AI, State of the Art <br /> RN Ch 1 | |
-| 1/21 | Intelligent Agents / Agent Architectures <br /> RN Ch 2 | [Intelligent Agents](./_slides/02Lecture.pdf) |
-| 1/23 | Problem Solving Agents / Uninformed Search <br /> RN Ch 3.1-3.4 | [Uninformed Search](./_slides/03Lecture.pdf) |
-| 1/28 | Uninformed Search / Informed Search <br /> RN Ch 3.5-3.6 | |
-| 1/30 | Heuristic Search / A* <br /> RN Ch 3.5-3.6 | |
-|  2/4 | Beyond Classical Search <br /> RN Ch 4 | |
-|  2/6 | Adversarial Search <br /> RN Ch 5 | |
-| 2/11 | Adversarial Search <br /> RN Ch 5 <br /> **Prof. Mattei Away** | |
-| 2/13 | CSPs  | |
-| 2/18 | Slack | |
-| 2/20 | Logical Agents | |
+| 1/21 | Intelligent Agents / Task Environments <br /> RN Ch 2 | [Intelligent Agents](https://drive.google.com/file/d/1J1L_vzIkCth_qLquulIwGWPATzoJD23U/view?usp=sharing) |
+| 1/23 | Agent Architectures / Problem Solving Agents <br /> RN Ch. 2 | |
+| 1/28 | Problem Representations / Tree Search <br /> RN Ch 3.1-3.3 | [Uninformed Search](https://drive.google.com/file/d/1keHlaWCrTPjRnzFBCj2QnL9xTWheVv-0/view?usp=sharing) |
+| 1/30 | Uninformed Search (BFS, DFS, UCS) <br /> RN Ch 3.4 | |
+|  2/4 | Informed Search <br /> RN Ch 4 | |
+|  2/6 | Informed Search <br /> RN Ch 5 | |
+| 2/11 | In Class Assignment / Project Work <br /> RN Ch 5 <br /> **Prof. Mattei Away** | |
+| 2/13 | Beyond Classical Search  | |
+| 2/18 | Adversarial Search | |
+| 2/20 | Adversarial Search | |
 | 2/25 | **No Class - Mardi Gras** | |
-| 2/27 | Logical Agents | |
-|  3/3 | Logical Agents | |
+| 2/27 | CSPs | |
+|  3/3 | Slack | |
 |  3/5 | **Midterm - In Class** ||
 | 3/10 | Probability, Decision Theory | |
 | 3/12 | BNs1 | |
