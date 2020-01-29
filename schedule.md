@@ -6,17 +6,11 @@ published: true
 
 ## Projects
 
-If you need to install Linux and you have Windows 10 an easy way is to use the Linux Subsystem -- [use this guide.](https://www.dataquest.io/blog/tutorial-install-linux-on-windows-wsl/)
-
-If you were in the Data Science class last year and are comfortable with Docker you can download the standard Ubuntu image from [DockerHub (Link)](https://hub.docker.com/_/ubuntu) and follow the [same directions as for the data science class (replacing the image in the directions discussed)](https://github.com/TulaneIntroDataScience/fall2019/tree/master/project0).
-
-Note that there seems to be some issues with TKinter and newer versions of Python (above 3.7) on the newest version of MacOS.  If your computer randomly logs you out when you try to run PacMan then [please try the tips here](https://www.python.org/download/mac/tcltk/#built-in-8-6-8), or simply downgrade Tkinter using the command: `conda install tk=8.6.7`
-
 
 | Project | Due Date | Link | Notes |
 |:-------:|:--------:|----|-----|
-| 0 | 1/23 | [Intro to Python and Unix/Linux and Autograder](https://inst.eecs.berkeley.edu/~cs188/fa18/project0.html) | Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains all of the files for the project as well as a screen shot (either image or the text copy and pasted into a text file) of the output of the autograder named LASTNAME-Autograder. |
-| 1 | 2/6 | [Pacman Search](https://inst.eecs.berkeley.edu/~cs188/fa18/project1.html) | Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains all of the files for the project as well as a screen shot (either image or the text copy and pasted into a text file) of the output of the autograder named LASTNAME-Autograder. |
+| 0 | 1/23 | [Intro to Python and Unix/Linux and Autograder](./_projects/project0.md) | Follow the specific directions in the instructions and rubric! |
+| 1 | 2/6 | [Pacman Search](./_projects/project0.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 2 | ?? | [Multi-Agent Search](https://inst.eecs.berkeley.edu/~cs188/fa18/project2.html) | N/A |
 | 3 | ?? | [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html) | Will likely only do some of the questions from this project. |
 | 4 | ?? | [Ghostbusters](https://inst.eecs.berkeley.edu/~cs188/fa18/project4.html) | Will likely only do some of the questions from this project. |
