@@ -9,8 +9,8 @@ published: true
 
 | Project | Due Date | Link | Notes |
 |:-------:|:--------:|----|-----|
-| 0 | 1/23 | [Intro to Python and Unix/Linux and Autograder](./_projects/project0.md) | Follow the specific directions in the instructions and rubric! |
-| 1 | 2/6 | [Pacman Search](./_projects/project0.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
+| 0 | 1/23 | [Intro to Python and Unix/Linux and Autograder](../_projects/project0.md) | Follow the specific directions in the instructions and rubric! |
+| 1 | 2/6 | [Pacman Search](../_projects/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 2 | ?? | [Multi-Agent Search](https://inst.eecs.berkeley.edu/~cs188/fa18/project2.html) | N/A |
 | 3 | ?? | [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html) | Will likely only do some of the questions from this project. |
 | 4 | ?? | [Ghostbusters](https://inst.eecs.berkeley.edu/~cs188/fa18/project4.html) | Will likely only do some of the questions from this project. |
