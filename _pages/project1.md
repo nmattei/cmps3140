@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 0
+title: Project 1
 published: true
 ---
 
@@ -33,7 +33,7 @@ Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Z
 
 You should also include answers to the *written portion* questions below in your zip file.  This should be named `Lastname.WrittenAnswers.pdf/docx/txt`.
 
-You should rename the folder (before zipping it) to `Lastname.Project1`.Please make sure to zip and submit **the entire directory**.  You are not to modify any other files than the ones listed here, if you do we will not be able to run your code and you will lose points.
+You should rename the folder (before zipping it) to `Lastname.Project1`. Please make sure to zip and submit **the entire directory**.  You are not to modify any other files than the ones listed here, if you do we will not be able to run your code and you will lose points.
 
 ### Grading Rubric
 
