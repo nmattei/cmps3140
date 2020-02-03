@@ -29,11 +29,11 @@ When writing your code you should make use of the `util.py` when making data str
 
 ### What To Turn In!
 
-Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains **only the `search.py` and `searchAgents.py` files** as well as a screen shot (either image or the text copy and pasted into a text file) of the output of the autograder named LASTNAME-Autograder.
+Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains **only the `search.py` and `searchAgents.py` files** as well as a text file that captures the **entire output** of the autograder.  Name the output capture `Lastname.Autograder.txt/pdf/docx`.
 
-You should also include answers to the *written portion* questions below in your zip file.
+You should also include answers to the *written portion* questions below in your zip file.  This should be named `Lastname.WrittenAnswers.pdf/docx/txt`.
 
-You are not to modify any other files than the ones listed here, if you do we will not be able to run your code and you will lose points.
+You should rename the folder (before zipping it) to `Lastname.Project1`.Please make sure to zip and submit **the entire directory**.  You are not to modify any other files than the ones listed here, if you do we will not be able to run your code and you will lose points.
 
 ### Grading Rubric
 

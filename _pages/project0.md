@@ -25,9 +25,9 @@ This project is designed to test your Python3 knowledge and make sure you can ru
 
 ### What To Turn In!
 
-Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains all of the files for the project as well as a screen shot (either image or the text copy and pasted into a text file) of the output of the autograder named LASTNAME-Autograder.
+Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains all of the files for the project as well as a text file that captures the **entire output** of the autograder.  Name the output capture Lastname.Autograder.txt.
 
-Please make sure to zip and submit **the entire directory**.  If you do not do this, we cannot run your code and you will lose points.
+You should rename the folder (before zipping it) to `Lastname.Project0`.Please make sure to zip and submit **the entire directory**.  If you do not do this, we cannot run your code and you will lose points.
 
 ### Grading Rubric
 
