@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Project 1
+title: Project 1: Search
 published: true
 ---
 
-## Project 1
+## Project 1: Search!
 
 ### Search!
-
-If you need to install Linux and you have Windows 10 an easy way is to use the Linux Subsystem -- [use this guide.](https://www.dataquest.io/blog/tutorial-install-linux-on-windows-wsl/)
-
-If you were in the Data Science class last year and are comfortable with Docker you can download the standard Ubuntu image from [DockerHub (Link)](https://hub.docker.com/_/ubuntu) and follow the [same directions as for the data science class (replacing the image in the directions discussed)](https://github.com/TulaneIntroDataScience/fall2019/tree/master/project0).
 
 Note that there seems to be some issues with TKinter and newer versions of Python (above 3.7) on the newest version of MacOS.  If your computer randomly logs you out when you try to run PacMan then [please try the tips here](https://www.python.org/download/mac/tcltk/#built-in-8-6-8), or simply downgrade Tkinter using the command: `conda install tk=8.6.7`
 
@@ -33,7 +29,7 @@ Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Z
 
 You should also include answers to the *written portion* questions below in your zip file.  This should be named `Lastname.WrittenAnswers.pdf/docx/txt`.
 
-You should rename the folder (before zipping it) to `Lastname.Project1`. Please make sure to zip and submit **the entire directory**.  You are not to modify any other files than the ones listed here, if you do we will not be able to run your code and you will lose points.
+You should rename the folder (before zipping it) to `Lastname.Project1`. Please make sure to zip and submit **only the files specifically listed here**.  You are not to modify any other files than the ones listed here, if you do we will not be able to run your code and you will lose points.
 
 ### Grading Rubric
 
