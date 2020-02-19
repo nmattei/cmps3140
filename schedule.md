@@ -11,7 +11,7 @@ published: true
 |:-------:|:--------:|----|-----|
 | 0 | 1/23 | [Intro to Python and Unix/Linux and Autograder](./_pages/project0.md) | Follow the specific directions in the instructions and rubric! |
 | 1 | 2/18 | [Pacman Search](./_pages/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
-| 2 | ?? | [Multi-Agent Search](https://inst.eecs.berkeley.edu/~cs188/fa18/project2.html) | N/A |
+| 2 | 3/12 | [Multi-Agent Search](https://inst.eecs.berkeley.edu/~cs188/fa18/project2.html) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 3 | ?? | [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html) | Will likely only do some of the questions from this project. |
 | 4 | ?? | [Ghostbusters](https://inst.eecs.berkeley.edu/~cs188/fa18/project4.html) | Will likely only do some of the questions from this project. |
 
@@ -22,24 +22,25 @@ published: true
 | Homework | Due Date | Link |
 |:-------:|:--------:|:----:|
 | 0 | 1/30 | [Homework 0 PDF](https://drive.google.com/open?id=13UQLGkp9Q2dBVC4YaZDDnkJN1XzErL8I)
-| 1 | 2/13 | [Homework 1 PDF](https://drive.google.com/open?id=1w_T4zC9brhJFohZxFx_vLbuG5RBo3s4h)    
+| 1 | 2/13 | [Homework 1 PDF](https://drive.google.com/open?id=1w_T4zC9brhJFohZxFx_vLbuG5RBo3s4h)   
+| 2 | 3/3 | [Homework 2 PDF]()    
 
 
 ## Schedule of Lectures and Slides
 
 | Date | Topic + Chapters | Resource Links |
 |:----:|----------------|:--------------:|
-| 1/14 | Course Overview / What is AI? <br /> RN Ch 1 | [Intro to AI](https://drive.google.com/file/d/1WpJboEkPtSjf1tvTrFCfoKOo3MlaeAo6/view?usp=sharing)|
+| 1/14 | Course Overview / What is AI? <br /> RN Ch 1 | [Intro to AI](https://drive.google.com/open?id=1IptL6SVS4ufSkS4uHkWfS8apCRyBAMkt)|
 | 1/16 | AI v. ML, History of AI, State of the Art <br /> RN Ch 1 | |
-| 1/21 | Intelligent Agents / Task Environments <br /> RN Ch 2 | [Intelligent Agents](https://drive.google.com/file/d/1J1L_vzIkCth_qLquulIwGWPATzoJD23U/view?usp=sharing) |
+| 1/21 | Intelligent Agents / Task Environments <br /> RN Ch 2 | [Intelligent Agents](https://drive.google.com/open?id=1yTglDG6NT-igBi9gVe50KCIObzRn-vZq) |
 | 1/23 | Agent Architectures / Problem Solving Agents <br /> RN Ch. 2 | |
-| 1/28 | Problem Representations / Tree Search <br /> RN Ch 3.1-3.3 | [Uninformed Search](https://drive.google.com/file/d/1keHlaWCrTPjRnzFBCj2QnL9xTWheVv-0/view?usp=sharing) |
+| 1/28 | Problem Representations / Tree Search <br /> RN Ch 3.1-3.3 | [Uninformed Search](https://drive.google.com/open?id=1qMkmex2WEvazcDwOIaYlpFF1AVk8f30C) |
 | 1/30 | Uninformed Search (BFS, DFS, UCS) <br /> RN Ch 3.4 | |
 |  2/4 | Informed Search / Hueristic Functions <br /> RN Ch 3.5, 3.6 | [Informed Search](https://drive.google.com/file/d/12AgjqlVRvptVYBj0axZEzqyTflCoZ-Qk/view?usp=sharing) |
 |  2/6 | Informed Search / Hueristic Functions <br /> RN Ch 3.5, 3.6 | |
 | 2/11 | In Class Assignment / Project Work <br /> **Prof. Mattei Away** | |
-| 2/13 | Beyond Classical Search <br /> RN Ch 4  | |
-| 2/18 | Adversarial Search <br /> RN Ch 5 | |
+| 2/13 | Beyond Classical Search <br /> RN Ch 4  | [Beyond Classical Search](https://drive.google.com/open?id=1iz59SzkHOJ6pkm3VX-YMWwiakqQ0kYGo) |
+| 2/18 | Adversarial Search <br /> RN Ch 5 | [Adversarial Search](https://drive.google.com/open?id=1HKr-5rE85IPDwAS2ioN_C35MAH2hkq3X) |
 | 2/20 | Adversarial Search <br /> RN Ch 5 | |
 | 2/25 | **No Class - Mardi Gras** | |
 | 2/27 | CSPs <br /> RN Ch 6 | |
