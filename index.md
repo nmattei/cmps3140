@@ -95,6 +95,15 @@ This course will consist of four distinct grading areas.  Note that all point va
 
 **Students are required to attend all classes and labs unless they are ill or prevented from attending by exceptional circumstances and with a valid excuse note.** Students are responsible for notifying instructors about absences that result from serious illnesses, injuries, or critical personal problems.  **Students with frequent absences will be reported and/or removed from the course according to university policy.**
 
+## Student Support Services
+
+Please come talk to us if you feel you are behind or overwhelmed in this class.  We can work with you and Tulane provides a suite of services to help you succeed in this course including the following.  For more information please visit the [student support services webpage](https://studentaffairs.tulane.edu/).
+
+* Academic Advising - Advising maximizes student potential by sharing information, tools, and resources that empower them to make informed decisions about creating appropriate plans to achieve their academic goals. 
+* Academic Learning & Tutoring - The ALTC supports students through supplemental instruction, peer tutoring, writing and presentation consultations, pop-up review sessions, study space, and online learning resources. 
+* Case Management and Counseling - Students can leverage support services such as [CAPS for Counseling Services](https://campushealth.tulane.edu/caps), [Case Management and Victim Support Services](https://cmvss.tulane.edu/), and [Goldman Center for Student Accessibility](https://accessibility.tulane.edu/).
+* Success Coaching - Coaches help students create actionable steps to meet goals on topics such as college transition, time-management, motivation, testing anxiety, stress management, and decision-making. 
+
 ## Use of Electronic Devices
 
 Please silence your cellphones during class.  If you want to use a laptop or other device with a large screen for note taking please sit in the back rows of the classroom -- it’s distracting to other students [https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/](https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/)
