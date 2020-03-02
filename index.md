@@ -72,7 +72,7 @@ This course will consist of four distinct grading areas.  Note that all point va
 
 **Written Homeworks.** We will have between 6-8 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
 
-**Projects.** We will be using a subset of the [PacMan projects](https://inst.eecs.berkeley.edu/~cs188/fa19/projects/) originally created for the UC: Berkeley CS188 Intro to AI Course.  Note that we are going to use the newer Python 3.x versions so please make sure you use the links from this web-page to find them. 
+**Projects.** We will be using a subset of the [PacMan projects](https://inst.eecs.berkeley.edu/~cs188/fa19/projects/) originally created for the UC: Berkeley CS188 Intro to AI Course.  Note that we are going to use the newer Python 3.x versions so please make sure you use the links from this web-page to find them.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Obtaining a solution from another source without citing the source is plagiarism.
 
 **Graduate Students.** Taking this course will be given one additional programming project towards the second half of the course. 
 
