@@ -39,8 +39,8 @@ published: true
 |  2/4 | Informed Search / Hueristic Functions <br /> RN Ch 3.5, 3.6 | [Informed Search](https://drive.google.com/file/d/12AgjqlVRvptVYBj0axZEzqyTflCoZ-Qk/view?usp=sharing) [PPTX](https://drive.google.com/open?id=14ON9rEaZ7Zc9EHgCS_7r5Wj5ifvAXfpV)|
 |  2/6 | Informed Search / Hueristic Functions <br /> RN Ch 3.5, 3.6 | |
 | 2/11 | In Class Assignment / Project Work <br /> **Prof. Mattei Away** | |
-| 2/13 | Beyond Classical Search <br /> RN Ch 4.1, 4.2  | [Beyond Classical Search](https://drive.google.com/open?id=1iz59SzkHOJ6pkm3VX-YMWwiakqQ0kYGo) [PPTX](https://drive.google.com/open?id=1VM9crmBsGEZ1L1ZbWIkbO1XYjlFwHJu4)|
-| 2/18 | Adversarial Search / MiniMax <br /> RN Ch 5.1, 5.2 | [Adversarial Search](https://drive.google.com/open?id=1HKr-5rE85IPDwAS2ioN_C35MAH2hkq3X) [PPTX](https://drive.google.com/open?id=1bRVtoRw2vWWsZerstgqTwBcBzHiIlSc8)|
+| 2/13 | Beyond Classical Search <br /> RN Ch 4.1, 4.2  | [Beyond Classical Search](https://drive.google.com/open?id=1HKr-5rE85IPDwAS2ioN_C35MAH2hkq3X) [PPTX](https://drive.google.com/open?id=1VM9crmBsGEZ1L1ZbWIkbO1XYjlFwHJu4)|
+| 2/18 | Adversarial Search / MiniMax <br /> RN Ch 5.1, 5.2 | [Adversarial Search](https://drive.google.com/open?id=1bI9Z8kygRSpJK7RJm2Yh379sAmC0RF3p) [PPTX](https://drive.google.com/open?id=1bRVtoRw2vWWsZerstgqTwBcBzHiIlSc8)|
 | 2/20 | Adversarial Search / Evaluation Functions / Alpha-Beta Pruning <br /> RN Ch 5.2, 5.3 | |
 | 2/25 | **No Class - Mardi Gras** | |
 | 2/27 | Adversarial Search / ExpectiMax <br /> RN Ch 5.4, 5.5 | |
