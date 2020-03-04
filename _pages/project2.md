@@ -10,7 +10,6 @@ published: true
 
 Note that there seems to be some issues with TKinter and newer versions of Python (above 3.7) on the newest version of MacOS.  If your computer randomly logs you out when you try to run PacMan then [please try the tips here](https://www.python.org/download/mac/tcltk/#built-in-8-6-8), or simply downgrade Tkinter using the command: `conda install tk=8.6.7`
 
-
 ### The Assignment
 
 Navigate over to the [Berkeley Site for the PacMan Projects](https://inst.eecs.berkeley.edu/~cs188/fa18/projects.html).  **Note:** There are a number of versions of these projects.  Please make sure you are following the links from the course website!
@@ -37,19 +36,18 @@ Note that for all of these projects simply passing the autograder is not suffici
 
 We expect all code to be written in a professional manner. That means there are comments where there needs to be, that the code is written in a general way that is (reasonably) efficient, and that you use naming conventions that others can understand.  If we open your code and we can't understand it, you will lose points even if it works.
 
-* (10 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient.  You have followed directions to turn in the file, clearly labeling everything.
+* (10 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient.  You have followed directions to turn in the file, clearly labeling everything.  You have cited all sources and how you used them.
 * (10 Points) *Question 1: Reflex Agent.* You have written code for a reflex agent that is general and passes the required tests.  Note that we will run your agent on the `openClassic` layout some number of times.  If your agent times out or never wins, you will get 0 points.  If your agent wins all the games, your score will be better.
-* (15 Points) *Question 2: Minimax.* You have written code for a minimax agent that is general and passes the required tests.
+* (10 Points) *Question 2: Minimax.* You have written code for a minimax agent that is general and passes the required tests.
 * (15 Points) *Question 3: Alpha-Beta Pruning.* You have written code for an agent that uses Alpha-Beta pruning that is general and passes the required tests.  Note that your agent will still lose sometimes here.
 * (15 Points) *Question 4: Expectimax.* You have written code for a minimax that is general and passes the required tests.
 * (20 Points) *Question 5: Evaluation Function.* You have written code for an evaluation function agent that is general and passes the required tests.  This function will be scored based on its quality and speed.
 
-* (15 Points) *Written Portion.* Several of the questions ask you to investigate the behavior of the algorithms in various settings.  Include a file with **short** answers to the following questions.
+* (20 Points) *Written Portion.* Several of the questions ask you to investigate the behavior of the algorithms in various settings.  Include a file with **short** answers to the following questions.
 	* Question 1: Give the intuition behind your reflex agent.  Why did it work?  What did you try that didn't work?
-	* Question 2: What happens as you increase the search depth for your minimax agent?
-	* Question 3: Compare the stright minimax agent to an Alpha-Beta pruning agent.  How much better or worse is he?  Why?
+	* Question 2: What happens as you increase the search depth for your minimax agent?  Why do you think this is?
+	* Question 3: Compare the stright minimax agent to an Alpha-Beta pruning agent.  How much better or worse is it?  Why?
 	* Question 4: Give some intuition as to why (or why not) your expectimax agent is working better than the other agents.
 	* Question 5: Give the intuition behind your evaluation function.  Why did it work?  What did you try that did not work?
-
 
 * Total Score: 100

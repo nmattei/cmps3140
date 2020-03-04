@@ -11,7 +11,7 @@ published: true
 |:-------:|:--------:|----|-----|
 | 0 | 1/23 | [Intro to Python and Unix/Linux and Autograder](./_pages/project0.md) | Follow the specific directions in the instructions and rubric! |
 | 1 | 2/18 | [Pacman Search](./_pages/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
-| 2 | 3/12 | [Multi-Agent Search](./_pages/project2.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
+| 2 | 3/17 | [Multi-Agent Search](./_pages/project2.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 3 | ?? | [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html) | Will likely only do some of the questions from this project. |
 | 4 | ?? | [Ghostbusters](https://inst.eecs.berkeley.edu/~cs188/fa18/project4.html) | Will likely only do some of the questions from this project. |
 
@@ -46,9 +46,9 @@ published: true
 | 2/27 | Adversarial Search / ExpectiMax <br /> RN Ch 5.4, 5.5 | |
 |  3/3 | Catchup, Review for Midterm | [Review Slides](https://drive.google.com/open?id=1DUm0zRog4fsE_Xt0-cPlosK3cwBlg7sb) [PPTX](https://drive.google.com/open?id=1m2UymvF2d5-evYobxg1E1F_akrHD9oHA) |
 |  3/5 | **Midterm - In Class** ||
-| 3/10 | Constraint Satisfaction Problems | |
-| 3/12 | BNs1 | |
-| 3/17 | BNs2 | |
+| 3/10 | Ethics in AI and Technology - Guest Lecture by Prof. Jeremy Bock, Test Summary | |
+| 3/12 | Constraint Satisfaction Problems | |
+| 3/17 | BNs1 | |
 | 3/19 | MDPs | |
 | 3/24 | MDPs | |
 | 3/26 | RL | |

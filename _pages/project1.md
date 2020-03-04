@@ -37,11 +37,11 @@ Note that for all of these projects simply passing the autograder is not suffici
 
 We expect all code to be written in a professional manner. That means there are comments where there needs to be, that the code is written in a general way that is (reasonably) efficient, and that you use naming conventions that others can understand.  If we open your code and we can't understand it, you will lose points even if it works.
 
-* (10 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient.  You have followed directions to turn in the file, clearly labeling everything.
+* (10 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient.  You have followed directions to turn in the file, clearly labeling everything.  You have cited all sources and explained how they were used.
 * (10 Points) *Question 1: Finding a Fixed Food Dot using Depth First Search.* You have written code for DFS that is general and passes the required tests.
 * (10 Points) *Question 2: Breadth First Search* You have written code for BFS that is efficient, general, and passes required tests.  Works for different puzzles.
 * (10 Points) *Question 3: Varying the Cost Function.* You have written code that is reasonable, general, and passes the required tests.
-* (10 Points) *Question 4: A search.* You have written code that is reasonable, general, and passes the required tests.
+* (10 Points) *Question 4: A\* search.* You have written code that is reasonable, general, and passes the required tests.
 * (10 Points) *Question 5: Varying the Cost Function.* You have written code that is reasonable, general, and passes the required tests.
 * (10 Points) *Question 6: Corners Problem: Heuristic.* You have written code that is reasonable, general, and passes the required tests.  Note that here efficiency may affect your score, but your explanation below carries weight as well!
 * (10 Points) *Question 7: Eating All The Dots.* You have written code that is reasonable, general, and passes the required tests.  Note that here efficiency may affect your score, but your explanation below carries weight as well!

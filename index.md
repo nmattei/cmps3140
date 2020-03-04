@@ -80,7 +80,7 @@ This course will consist of four distinct grading areas.  Note that all point va
 
 **Late Work Policy.**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **20% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
 
-**Late Tokens.** At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for programming projects only.  Each token is worth one additional day, to use at your discretion.  These tokens have no cash value.
+**Late Tokens.** At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for **programming projects or homeworks only**.  Each token is worth one additional day, to use at your discretion.  These tokens have no cash value.
 
 **Final Grade Policy.** The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
 * A >= 90%
