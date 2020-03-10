@@ -20,12 +20,12 @@ Tulane University
 **Instructor:** Dr. Nicholas Mattei
 *   Email: <nsmattei@tulane.edu>
 *   Office: Stanley Thomas 402B
-*   Office Hours: T and R 1500 - 1600
+*   Office Hours: T and R 1500 - 1600 and by appointment.
 
 **Teaching Assistant:** Arie Glazier
 *   Email: <aglazier@tulane.edu>
 *   Office: Stanley Thomas 309
-*   Office Hours: M and W 1000 - 1100
+*   Office Hours: M and W 1000 - 1100, CMPS 1500 Help Hours R 1-3p, and by appointment.
 
 ## Overview / Catalog Course Description
 
@@ -70,9 +70,9 @@ This course will consist of four distinct grading areas.  Note that all point va
 
 **In Class Activities and Participation.** Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing.
 
-**Written Homeworks.** We will have between 6-8 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
+**Written Homeworks (1-2 hours each).** We will have between 6-8 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
 
-**Projects.** We will be using a subset of the [PacMan projects](https://inst.eecs.berkeley.edu/~cs188/fa19/projects/) originally created for the UC: Berkeley CS188 Intro to AI Course.  Note that we are going to use the newer Python 3.x versions so please make sure you use the links from this web-page to find them.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Obtaining a solution from another source without citing the source is plagiarism.
+**Projects (10-15 hours each).** We will be using a subset of the [PacMan projects](https://inst.eecs.berkeley.edu/~cs188/fa19/projects/) originally created for the UC: Berkeley CS188 Intro to AI Course.  Note that we are going to use the newer Python 3.x versions so please make sure you use the links from this web-page to find them.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Obtaining a solution from another source without citing the source is plagiarism.  Like homeworks, you are encouraged to discuss the projects in small groups, **as long as you give credit to whomever you discussed the topics with in the written portion of the projects**.
 
 **Graduate Students.** Taking this course will be given one additional programming project towards the second half of the course. 
 
@@ -123,7 +123,6 @@ This course will follow Tulane's Code of Academic Conduct. Cheating will be repo
 To be more clear (text from Hal Daumé III): **Any assignment or exam that is handed in must be your own work (unless otherwise stated). However, talking with one another to understand the material better is strongly encouraged.** Recognizing the distinction between cheating and cooperation is very important. If you copy someone else's solution, you are cheating. If you let someone else copy your solution, you are cheating (this includes posting solutions online in a public place). If someone dictates a solution to you, you are cheating.
 
 Everything you hand in must be in your own words, and based on your own understanding of the solution. If someone helps you understand the problem during a high-level discussion, you are not cheating. **We strongly encourage students to help one another understand the material presented in class, in the book, and general issues relevant to the assignments.  We also encourage the use of online resources to understand and clarify things, but not taking results verbatium.** When taking an exam, you must work independently. Any collaboration during an exam will be considered cheating. Any student who is caught cheating will be given an F in the course and referred to the University Office of Student Conduct. Please don't take that chance – if you're having trouble understanding the material, please let me know and I will be more than happy to help.
-
 
 The Code of Academic Conduct applies to all undergraduate students, full-time and part-time, at Tulane University. Tulane University expects and requires behavior compatible with its high standards of scholarship. By accepting admission to the university, a student accepts its regulations (i.e., [Code of Academic Conduct](https://college.tulane.edu/code-of-academic-conduct) and the [Code of Student Conduct](https://conduct.tulane.edu/resources/code-student-conduct)) and acknowledges the right of the university to take disciplinary action, including suspension or expulsion, for conduct judged unsatisfactory or disruptive.
 
