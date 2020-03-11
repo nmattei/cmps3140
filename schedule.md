@@ -4,12 +4,12 @@ title: Spring 2020 Schedule
 published: true
 ---
 
-**Note:** This is an upper division computer science course, it is hard, there will be a lot of work.  You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/).  You are expected to read the chapters on the schedule, about 1 hour per week of reading.  In addition, plan on:
+**Note:** This is an upper division computer science course, it is hard, there will be a lot of work.  You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).  You are expected to read the chapters on the schedule, about 1 hour per week of reading.  In addition, plan on:
   * Homeworks will generally be 1-2 hours of work.
   * Projects will be 10-15 hours of work.
 
-## Projects
 
+## Projects
 
 | Project | Due Date | Link | Notes |
 |:-------:|:--------:|----|-----|
@@ -69,4 +69,4 @@ published: true
 | 4/21 | Bayesian Belief Networks I <br /> RN Ch 13, 14 | [Bayes Nets]() [PPTX]() |
 | 4/23 | Bayesian Belief Networks II <br /> RN Ch 13, 14 | |
 | 4/28 | Social Choice(?) Recap, Outro, Review | |
-|  5/6 | ** Final Exam: ST302 800-1200 | |
+|  5/6 | **Final Exam: ST302 800-1200** | |
