@@ -27,13 +27,17 @@ Tulane University
 *   Office: Stanley Thomas 309
 *   Office Hours: M and W 1000 - 1100, CMPS 1500 Help Hours R 1-3p, and by appointment.
 
+If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2206549/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
+
+Students are reminded to make use of office hours.  Please reach out to Arie and I whenever you need and we can make appointments to meet if you require it.
+
 ## Overview / Catalog Course Description
 
 The aim of this course is to provide the student with an introduction to the main concepts and techniques playing a key role in the modern arena of artificial intelligence. In addition to covering the main topics that concern modern AI, particular attention will be devoted to its applications in several fields. Among the topics covered are: "What is an intelligent artificial agent?", problem solving using search and constraint satisfaction, uncertainty, Bayesian networks and probabilistic inference, supervised learning, planning, sequential decision problems, as well as several additional topics.
 
 Prerequisite(s): CMPS 1500 and CMPS/MATH 2170
 
-**Note.** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and an understanding of basic algorithms is expected.
+**Note.** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and an understanding of basic algorithms is expected.  We will be working with large projects so you will be requried to spend time navigating a code base you did not write.
 
 
 ## Course Learning Outcomes
@@ -108,9 +112,13 @@ Please come talk to us if you feel you are behind or overwhelmed in this class. 
 
 Please silence your cellphones during class.  If you want to use a laptop or other device with a large screen for note taking please sit in the back rows of the classroom -- it’s distracting to other students [https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/](https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/)
 
-## Schedule
+## Schedule and Workload
 
 See the [Schedule Page](https://nmattei.github.io/cmps3140/schedule) for the schedule and assignments.
+
+This is an upper division computer science course, it is hard.  You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  Expect to spend 4-6 hours per week **outside of class** on this course.  You are expected to read the chapters on the schedule, about 1 hour per week of reading.  In addition, plan on:
+  * Homeworks will generally be 1-2 hours of work.
+  * Projects will be 10-15 hours of work.
 
 ## ADA / Accessibility Statement
 

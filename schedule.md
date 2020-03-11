@@ -4,6 +4,10 @@ title: Spring 2020 Schedule
 published: true
 ---
 
+**Note:** This is an upper division computer science course, it is hard, there will be a lot of work.  You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/).  You are expected to read the chapters on the schedule, about 1 hour per week of reading.  In addition, plan on:
+  * Homeworks will generally be 1-2 hours of work.
+  * Projects will be 10-15 hours of work.
+
 ## Projects
 
 
@@ -12,8 +16,8 @@ published: true
 | 0 | 1/23 | [Intro to Python and Unix/Linux and Autograder](./_pages/project0.md) | Follow the specific directions in the instructions and rubric! |
 | 1 | 2/18 | [Pacman Search](./_pages/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 2 | 3/17 | [Multi-Agent Search](./_pages/project2.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
-| 3 | ?? | [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html) | Will likely only do some of the questions from this project. |
-| 4 | ?? | [Ghostbusters](https://inst.eecs.berkeley.edu/~cs188/fa18/project4.html) | Will likely only do some of the questions from this project. |
+| 3 | 4/2 | [Constraints or Logic...TBD!]() | TBD |
+| 4 | 4/28 | [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 
 
 
@@ -23,7 +27,11 @@ published: true
 |:-------:|:--------:|:----:|
 | 0 | 1/30 | [Homework 0 PDF](https://drive.google.com/open?id=13UQLGkp9Q2dBVC4YaZDDnkJN1XzErL8I)
 | 1 | 2/13 | [Homework 1 PDF](https://drive.google.com/open?id=1w_T4zC9brhJFohZxFx_vLbuG5RBo3s4h)   
-| 2 | 3/3 | [Homework 2 PDF](https://drive.google.com/open?id=18KWPbJ-y0bmqM7sPPjEMnGqECYA9kBog)    
+| 2 | 3/3 | [Homework 2 PDF](https://drive.google.com/open?id=18KWPbJ-y0bmqM7sPPjEMnGqECYA9kBog)  
+| 3 | 3/26 | [Homework 3 PDF]()
+| 4 | 4/16 | [Homework 4 PDF]()
+| 5 | 4/23 | [Homework 5 PDF]()
+
 
 
 ## Schedule of Lectures and Slides
@@ -46,19 +54,19 @@ published: true
 | 2/27 | Adversarial Search / ExpectiMax <br /> RN Ch 5.4, 5.5 | |
 |  3/3 | Catchup, Review for Midterm | [Review Slides](https://drive.google.com/open?id=1DUm0zRog4fsE_Xt0-cPlosK3cwBlg7sb) [PPTX](https://drive.google.com/open?id=1m2UymvF2d5-evYobxg1E1F_akrHD9oHA) |
 |  3/5 | **Midterm - In Class** ||
-| 3/10 | Ethics in AI and Technology - Guest Lecture by Prof. Jeremy Bock, Test Summary | |
-| 3/12 | Constraint Satisfaction Problems | |
-| 3/17 | BNs1 | |
-| 3/19 | MDPs | |
-| 3/24 | MDPs | |
-| 3/26 | RL | |
-| 3/31 | RL | |
-|  4/2 | RL | |
+| 3/10 | Ethics in AI and Technology - Guest Lecture by Prof. Jeremy Bock, Test Summary | [Course Survey Results](https://drive.google.com/open?id=15UttPL1Hc-N5_2eoQRodIl8TCIA28AWJ) [PPTX](https://drive.google.com/open?id=1yIDLwotiyKCMZJa9PddR2sE6CN3xIpXT) |
+| 3/12 | Constraint Satisfaction Problems (CSPs) <br /> RN Ch 6 | [Constraint Satisfaction Problems](https://drive.google.com/open?id=1EAQcd0cqWVXxF1Ac_zNovTei5audRCxg) [PPTX](https://drive.google.com/open?id=1PAEuNArC41RDJnmYCNvG_elSUgUZJ-np) |
+| 3/17 | Logical Agents <br /> RN Ch 7.1-7.3 | [Logical Agents](https://drive.google.com/open?id=1zBSGDInJ5PMZ5rbLME2ns5tob6GKxkJH) [PPTX](https://drive.google.com/open?id=18eLzYPp6VXuFd2TXbrigm66vdvmOCBV-) |
+| 3/19 | Logical Agents / Propositional Logic <br /> RN Ch 7.4-7.7 | |
+| 3/24 | First Order Logic / Inference <br /> RN Ch 8-9 | |
+| 3/26 | First Order Logic / Inference <br /> RN Ch 8-9 | |
+| 3/31 | Utility Theory / Markov Decision Processes (MDPs) 1 <br /> RN Ch 13, 16, 17 | [Markov Decision Processes]() [PPTX]() |
+|  4/2 | Markov Decision Processes (MDPs) 2 <br /> RN Ch 13, 16, 17 | |
 |  4/7 | **No Class - Spring Break** | |
 | 4/10 | **No Class - Spring Break** | |
-| 4/14 | Logical Agents | |
-| 4/16 | Logical Agents | |
-| 4/21 | Slack | |
-| 4/23 | Slack | |
-| 4/28 | Recap and Outro | |
+| 4/14 | Reinforcement Learning I <br /> RN Ch 21 | [Reinforcement Learning]() [PPTX]() |
+| 4/16 | Reinforcement Learning II <br /> RN Ch 21 | |
+| 4/21 | Bayesian Belief Networks I <br /> RN Ch 13, 14 | [Bayes Nets]() [PPTX]() |
+| 4/23 | Bayesian Belief Networks II <br /> RN Ch 13, 14 | |
+| 4/28 | Social Choice(?) Recap, Outro, Review | |
 |  5/6 | ** Final Exam: ST302 800-1200 | |
