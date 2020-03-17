@@ -6,9 +6,11 @@ published: true
 
 Given the changing situation I tried to write down all the new course policies all at once.  These are now posted on the main course page under a new heading **Social Isolation Syllabus**.  Please read these in full before our class next week and we will address each in turn.
 
-## Schedule. 
+## Schedule 
 
-I have updated the [course webpage with a new schedule, new readings, and due dates for the rest of the assignments](https://nmattei.github.io/cmps3140/schedule).  We will have 2 more homeworks, 1 more required project, 1 optional (for undergrads) and required for grads project, and the final.  We have a total of 11 more lectures and we will be covering Constraint Programming, Basic Logical Agents, Markov Decision Processes, Reinforcement Learning, and then (if we have time) either Bayes Nets/Bayesian Inference or Logic Programming.  One or both of these last elements may be dropped due to losing a week.
+I have updated the [course webpage with a new schedule, new readings, and due dates for the rest of the assignments](https://nmattei.github.io/cmps3140/schedule).  I will continue to get slides and additional resources up in the coming days.  
+
+**As an overview:** we will have 2 more homeworks, 1 more required project, 1 optional (for undergrads) and required for grads project, and the final.  We have a total of 11 more lectures and we will be covering Constraint Programming, Basic Logical Agents, Markov Decision Processes, Reinforcement Learning, and then (if we have time) either Bayes Nets/Bayesian Inference or Logic Programming.  One or both of these last elements may be dropped due to losing a week.
 
 ## Lectures
 

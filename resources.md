@@ -17,11 +17,12 @@ Students are reminded to make use of office hours.  Please reach out to Arie and
 **Teaching Assistant:** Arie Glazier
 *   Email: <aglazier@tulane.edu>
 *   Office: Stanley Thomas 309
-*   Office Hours: M and W 1000 - 1100, CMPS 1500 Help Hours R 1-3p, and by appointment.
+*   Office Hours: M and W 1000 - 1100 on weeks of homeworks.  Arie is available on demand the rest of the semester, please email to arrange a time: <aglazier@tulane.edu>.
 
 There are a few AI books online that provide additional explanations and examples.  These are generally free and open to download.
   * [Artificial Intelligence 2E by David L. Poole and Alan K. Mackworth](https://artint.info/2e/html/ArtInt2e.html).
   * [A list of other books including some good free books on Machine Learning.](https://readyforai.com/article/best-books-on-artificial-intelligence-for-beginner-with-pdf-download/).
+  * [Sutton and Barto Book on Reinforcement Learning](http://incompleteideas.net/book/RLbook2018.pdf)
 
 Links to other versions of this course and additional reading.  I have borrowed liberally from many of these versions of the course and have provided these sources to help students.
   * Anca Dragan's Course at [UC Berkeley Fall 2019](http://inst.eecs.berkeley.edu/~cs188/fa19/)

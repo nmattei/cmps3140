@@ -20,12 +20,12 @@ Tulane University
 **Instructor:** Dr. Nicholas Mattei
 *   Email: <nsmattei@tulane.edu>
 *   Office: Stanley Thomas 402B
-*   Office Hours: T and R 1500 - 1600 and by appointment.
+*   Office Hours: T and R 1500 - 1600 and by appointment.  Online only!!
 
 **Teaching Assistant:** Arie Glazier
 *   Email: <aglazier@tulane.edu>
 *   Office: Stanley Thomas 309
-*   Office Hours: M and W 1000 - 1100 -- see updates from the [Social Isolation Syllabus](https://nmattei.github.io/cmps3140/isolation) for updated policies.
+*   Office Hours: M and W 1000 - 1100 -- see updates from the [Social Isolation Syllabus](https://nmattei.github.io/cmps3140/isolation) for updated policies.  Arie is available on demand the rest of the course, email to setup: <aglazier@tulane.edu>.
 
 If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2206549/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 
