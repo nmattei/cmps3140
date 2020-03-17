@@ -12,7 +12,7 @@ Tulane University
 
 ## Time and Location
 * **Lectures:** Tuesdays and Thursdays 
-* **Room:** Stanley Thomas 302 ([Building 10](https://tulane.edu/maps-directions))
+* **Room:** Online Only Now... see the [Social Isolation Syllabus](https://nmattei.github.io/cmps3140/isolation) for updated policies.
 * **Time:** 0930 - 1045
 * **Webpage:** [https://nmattei.github.io/cmps3140/](https://nmattei.github.io/cmps3140/)
 
@@ -25,7 +25,7 @@ Tulane University
 **Teaching Assistant:** Arie Glazier
 *   Email: <aglazier@tulane.edu>
 *   Office: Stanley Thomas 309
-*   Office Hours: M and W 1000 - 1100, CMPS 1500 Help Hours R 1-3p, and by appointment.
+*   Office Hours: M and W 1000 - 1100 -- see updates from the [Social Isolation Syllabus](https://nmattei.github.io/cmps3140/isolation) for updated policies.
 
 If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2206549/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 

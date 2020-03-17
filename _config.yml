@@ -21,6 +21,7 @@ description: Tulane University, Spring 2020
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
+  Social Isolation Syllabus: "isolation"
   Schedule & Assignments: "schedule"
   Links & Resources: "resources"
 
