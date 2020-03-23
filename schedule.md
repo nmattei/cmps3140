@@ -4,7 +4,7 @@ title: Spring 2020 Schedule
 published: true
 ---
 
-**Note:** This is an upper division computer science course, it is hard, there will be a lot of work.  You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).  Expected minimum workload is:
+**Note:** This is an upper division computer science course, *it is hard*, there will be a lot of work.  You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).  Expected workload is:
   * Readings -- 1 hour per week.
   * Homeworks will generally be 1-2 hours of work.
   * Projects will be 10-15 hours of work.
@@ -33,6 +33,8 @@ published: true
 
 **Note:** The Berkeley Notes documents below are linked from Dan Klein and Peter Abbeel's older course at [UC Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html).  These are supplmental, we cover some of this material and some of the material we cover are not in these notes.  These are not comprehensive but rather additional resources for you to use.
 
+You can also check out the [video lectures from Berkeley here](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html) which may be useful (though they do not line up with our class 100%).
+
 | Date | Topic + Chapters | Resource Links |
 |:----:|----------------|:--------------:|
 | 1/14 | Course Overview / What is AI? <br /> RN Ch 1 | [Intro to AI PDF](https://drive.google.com/open?id=1IptL6SVS4ufSkS4uHkWfS8apCRyBAMkt) <br /> [Intro to AI PPTX](https://drive.google.com/open?id=12vTWKCwp76KEwcb5u5SXHJz5MjX1s9-0)|
@@ -56,8 +58,9 @@ published: true
 | 3/17 | **Class Cancelled -- Carona Virus** | |
 | 3/19 | **Class Cancelled -- Carona Virus** | |
 | 3/24 | Constraint Satisfaction Problems (CSPs) <br /> RN Ch 6 | [CSP PDF](https://drive.google.com/open?id=1EAQcd0cqWVXxF1Ac_zNovTei5audRCxg) <br /> [CSP PPTX](https://drive.google.com/open?id=1PAEuNArC41RDJnmYCNvG_elSUgUZJ-np) <br /> [Berkeley Notes](https://drive.google.com/open?id=1pK6zC2SjJT1eObA4qxxtshzo0wqojY3y)  |
-| 3/26 | Logical Agents <br /> RN Ch 7.1-7.3 | [Logical Agents](https://drive.google.com/open?id=1zBSGDInJ5PMZ5rbLME2ns5tob6GKxkJH) [PPTX](https://drive.google.com/open?id=18eLzYPp6VXuFd2TXbrigm66vdvmOCBV-) |
-| 3/31 | Utility Theory / Markov Decision Processes (MDPs) 1 <br /> RN Ch 16.1-16.3, 17.1-17.3 | [MDPs PDF](https://drive.google.com/open?id=1fPb1fZhRjjxxiKEPpVPVc5J2RgvkPGAz) <br /> [MDPs PPTX](https://drive.google.com/open?id=1IsBnA83U7N_nhQFDc66egXxfG20WEcPU) <br /> [Berkeley Notes](https://drive.google.com/open?id=1n1zhpliKROMUPRthYF5Q1Bvut2EQkpij) |
+| 3/26 | Logical Agents <br /> RN Ch 7.1-7.3, 7.7 | [Logical Agents](https://drive.google.com/open?id=1zBSGDInJ5PMZ5rbLME2ns5tob6GKxkJH) [PPTX](https://drive.google.com/open?id=18eLzYPp6VXuFd2TXbrigm66vdvmOCBV-) |
+| 3/31 | Utility Theory / Markov Decision Processtulane
+es (MDPs) 1 <br /> RN Ch 16.1-16.3, 17.1-17.3 | [MDPs PDF](https://drive.google.com/open?id=1fPb1fZhRjjxxiKEPpVPVc5J2RgvkPGAz) <br /> [MDPs PPTX](https://drive.google.com/open?id=1IsBnA83U7N_nhQFDc66egXxfG20WEcPU) <br /> [Berkeley Notes](https://drive.google.com/open?id=1n1zhpliKROMUPRthYF5Q1Bvut2EQkpij) |
 |  4/2 | Markov Decision Processes (MDPs) 2 <br /> RN Ch 16.1-16.3, 17.1-17.3 | |
 |  4/7 | **No Class - Spring Break** | |
 |  4/9 | **No Class - Spring Break** | |

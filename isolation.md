@@ -4,6 +4,8 @@ title: Social Isolation Syllabus
 published: true
 ---
 
+**Update:** As we move to remote teaching Tulane has moved a number of student success resources online.  Please visit the [Virtual Learning Student Support Pages](https://success.tulane.edu/virtual-learning-student-support) for more information.
+
 Given the changing situation I tried to write down all the new course policies all at once.  These are now posted on the main course page under a new heading **Social Isolation Syllabus**.  Please read these in full before our class next week and we will address each in turn.
 
 ## Schedule 
@@ -31,7 +33,9 @@ As indicated in the announcement earlier this week I will be holding my regular 
 
 ## Extra Instruction
 
-As part of the guidance from the academic affairs office we must do 50 mins of extra instruction (in addition to class time) before the end of the semester.  The current plan for this is to assign about 50 mins of video lectures from my old boss at NICTA related to constraint programming.  They're fun videos and you'll have a short quiz (on Canvas, homework points on Homework 3 and 1 attendance point) about the material in the videos.
+As part of the guidance from the academic affairs office we must do 50 mins of extra instruction (in addition to class time) before the end of the semester.  The current plan for this is to assign about 50 mins of video lectures from my old boss at NICTA related to constraint programming.  They're fun videos and you'll have a short quiz (on Canvas, homework points) about the material in the videos.
+
+This has now been assigned and is due the same day as Homework 4 to line up with our extra instructional days.
 
 ## Projects
 

@@ -39,7 +39,6 @@ Prerequisite(s): CMPS 1500 and CMPS/MATH 2170
 
 **Note.** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and an understanding of basic algorithms is expected.  We will be working with large projects so you will be requried to spend time navigating a code base you did not write.
 
-
 ## Course Learning Outcomes
 
 At the conclusion of this course students will be able to:
@@ -100,6 +99,8 @@ This course will consist of four distinct grading areas.  Note that all point va
 **Students are required to attend all classes and labs unless they are ill or prevented from attending by exceptional circumstances and with a valid excuse note.** Students are responsible for notifying instructors about absences that result from serious illnesses, injuries, or critical personal problems.  **Students with frequent absences will be reported and/or removed from the course according to university policy.**
 
 ## Student Support Services
+
+**Update:** As we move to remote teaching Tulane has moved a number of student success resources online.  Please visit the [Virtual Learning Student Support Pages](https://success.tulane.edu/virtual-learning-student-support) for more information.
 
 Please come talk to us if you feel you are behind or overwhelmed in this class.  We can work with you and Tulane provides a suite of services to help you succeed in this course including the following.  For more information please visit the [student support services webpage](https://studentaffairs.tulane.edu/).
 
