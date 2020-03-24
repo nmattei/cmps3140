@@ -59,8 +59,7 @@ You can also check out the [video lectures from Berkeley here](https://inst.eecs
 | 3/19 | **Class Cancelled -- Carona Virus** | |
 | 3/24 | Constraint Satisfaction Problems (CSPs) <br /> RN Ch 6 | [CSP PDF](https://drive.google.com/open?id=1EAQcd0cqWVXxF1Ac_zNovTei5audRCxg) <br /> [CSP PPTX](https://drive.google.com/open?id=1PAEuNArC41RDJnmYCNvG_elSUgUZJ-np) <br /> [Berkeley Notes](https://drive.google.com/open?id=1pK6zC2SjJT1eObA4qxxtshzo0wqojY3y)  |
 | 3/26 | Logical Agents <br /> RN Ch 7.1-7.3, 7.7 | [Logical Agents](https://drive.google.com/open?id=1zBSGDInJ5PMZ5rbLME2ns5tob6GKxkJH) [PPTX](https://drive.google.com/open?id=18eLzYPp6VXuFd2TXbrigm66vdvmOCBV-) |
-| 3/31 | Utility Theory / Markov Decision Processtulane
-es (MDPs) 1 <br /> RN Ch 16.1-16.3, 17.1-17.3 | [MDPs PDF](https://drive.google.com/open?id=1fPb1fZhRjjxxiKEPpVPVc5J2RgvkPGAz) <br /> [MDPs PPTX](https://drive.google.com/open?id=1IsBnA83U7N_nhQFDc66egXxfG20WEcPU) <br /> [Berkeley Notes](https://drive.google.com/open?id=1n1zhpliKROMUPRthYF5Q1Bvut2EQkpij) |
+| 3/31 | Utility Theory / Markov Decision Process (MDPs) 1 <br /> RN Ch 16.1-16.3, 17.1-17.3 | [MDPs PDF](https://drive.google.com/open?id=1fPb1fZhRjjxxiKEPpVPVc5J2RgvkPGAz) <br /> [MDPs PPTX](https://drive.google.com/open?id=1IsBnA83U7N_nhQFDc66egXxfG20WEcPU) <br /> [Berkeley Notes](https://drive.google.com/open?id=1n1zhpliKROMUPRthYF5Q1Bvut2EQkpij) |
 |  4/2 | Markov Decision Processes (MDPs) 2 <br /> RN Ch 16.1-16.3, 17.1-17.3 | |
 |  4/7 | **No Class - Spring Break** | |
 |  4/9 | **No Class - Spring Break** | |

@@ -8,10 +8,18 @@ published: true
 
 Note that this project will make use of [MiniZinc](https://www.minizinc.org/).  You will need to download and install [MiniZinc](https://www.minizinc.org/) first.
 
-**Note: This is still being put together...**
+I have assembled a number of examples of MiniZinc programs and PDFs of my old class where I go into greater detail on various aspects of efficient modeling.  [All these resources are available here](https://drive.google.com/open?id=1vf_0VivlRM1PABX8Jyza7BQWMozTdiH1).
 
 ### The Assignment
 
+We want to find out if we can seat all of our friends and relatives at our sister's upcoming wedding. Mom says money is a little tight so we need to make sure all the tables that we will order will at least have some people at them.  Every individual, family, or couple that received an invitation should be seated together.  Additionally, each person could suggest people that they would prefer to sit with.  Since this is so important to Mom we want to maximize the happiness she gets out of seeing all her friends and family sitting together happily at the wedding. For this assignment we are going to encode the problem as a constraint programming problem and find solutions so that everyone can have a fun and **happy** time.
+
+#### Formal Problem Description
+
+
+We want to maximize the following two objective functions.
+
+<img src="./pg3_objectives.png">
 
 ### What To Turn In!
 
