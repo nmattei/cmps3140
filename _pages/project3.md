@@ -31,6 +31,7 @@ We want to find a mapping of guests to tables such that:
   * Every person **must** be seated with their group.
   * Everyone in the set *Trouble* must be seated at different tables.
 
+
 #### Measures of Utility
 
 We want to investigate different functions we can use to maximize the happiness or **utility** of all the guests at the wedding. We will investigate three different measures of utility. For more in-depth details of welfare and happiness see H. Moulin, [*Fair Division and Collective Welfare*](https://mitpress.mit.edu/books/fair-division-and-collective-welfare), MIT Press, 2004.  
@@ -133,9 +134,12 @@ Turn in through [Canvas](https://tulane.instructure.com/).  You will submit 4 fi
     1. What the decision variables are in the model;
     2. Why you chose to model the problem with these decision variables;
     3. An explanation of each of the *constraint* lines in your model. You should be able to explain what the constraint is doing, and what it models in the real world.  Discuss why you chose the modeling approach you did whether you tried any other approaches and whether or not they worked.
-    4. You must also include a section called *Testing*.  This section should include a graph which shows how your model preforms (in terms of choice points for g12fd or nodes for gecode explored and the solve time) as you add more guests for both of the evaluation functions.  There should be data points at 5, 10, 20, and 30 guests for each of the welfare functions. Additionally, you should write a short paragraph about how using the different utility functions, the number of guests, and any other constraints you can think of to test did (or did not) affect the solve time of your model.
+    4. You must also include a section called *Testing*.  This section should include:
+      a. A graph which shows how your model preforms (in terms of choice points for g12fd or nodes for gecode explored and the solve time) as you add more guests for both of the evaluation functions.  
+      b. There should be data points at 5, 10, 20, and 30 guests for each of the welfare functions. 
+      c. A short paragraph about how using the different utility functions, the number of guests, and any other constraints you can think of to test did (or did not) affect the solve time of your model.
 
-You should submit a Zip file that contains all of the above components. You should rename the folder (before zipping it) to `Lastname.Project2`. Please make sure to zip and submit **only the files specifically listed here**.
+You should submit a Zip file that contains all of the above components. You should rename the folder (before zipping it) to `Lastname.Project3`. Please make sure to zip and submit **only the files specifically listed here**.
 
 ### Grading Rubric
 
@@ -151,6 +155,4 @@ We expect all code to be written in a professional manner. That means there are 
 * (10 Points) *Troublemakers*: Troublemakers are seated correctly and implementation is efficient.
 * (10 Points) *Preference Metrics*: Both preference metrics are implemented and there is a switch that is implemented reasonably.
 * (15 Points) *Efficiency/Model*: The model implemented is of high quality, breaks symmetries where necessary, and can solve large instance.
-
-
 * Total Score: 100 (divided by 2).
