@@ -42,7 +42,7 @@ Let *AtTable(t)* denote the set of people seated at table *t*, *Pref(i)* is the 
 
 #### Additional Details
 
-We have included a Python 3 script\footnote{This should also run on Python 2.7+ as well.} which, given a properly specified input file, can check a provided
+We have included a Python 3.5+ script which, given a properly specified input file, can check a provided
 solution.  The command line for the script is: `python3 checkAssignment.py <Input File> <Output File>`.  [The check assignment file can be found with the other project resources](https://drive.google.com/open?id=1vf_0VivlRM1PABX8Jyza7BQWMozTdiH1).
 
 In order to capture the output of your solver try:
