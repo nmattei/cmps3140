@@ -94,6 +94,8 @@ This course will consist of four distinct grading areas.  Note that all point va
 
 **All grades will be posted on [Canvas](https://tulane.instructure.com/) throughout the semester.**
 
+**Note:** Due to the move to online classes the registrar has issued new guidance for graduate and undergraduate grades this semester.  The latest news can be [found on their website](https://registrar.tulane.edu/covid-19-grading-policy).
+
 ## Attendance
 
 **Students are required to attend all classes and labs unless they are ill or prevented from attending by exceptional circumstances and with a valid excuse note.** Students are responsible for notifying instructors about absences that result from serious illnesses, injuries, or critical personal problems.  **Students with frequent absences will be reported and/or removed from the course according to university policy.**
