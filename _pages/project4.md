@@ -12,7 +12,7 @@ Note that there seems to be some issues with TKinter and newer versions of Pytho
 
 ### The Assignment
 
-Navigate over to the [Berkeley Site for the PacMan Projects](https://inst.eecs.berkeley.edu/~cs188/fa18/projects.html) and specifically look at the one for [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html)  **Note:** There are a number of versions of these projects.  Please make sure you are following the links from the course website!
+Navigate over to the [Berkeley Site for the PacMan Projects](https://inst.eecs.berkeley.edu/~cs188/fa18/projects.html) and specifically look at the one for [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html).  **Note:** There are a number of versions of these projects.  Please make sure you are following the links from the course website!
 
 We'll be doing the third project: [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html).  **Complete only the subset of questions asked below and ensure that your solution passes the autograder for those questions.  Not all questions are required and a few are labeled as BONUS!**
 
@@ -39,7 +39,6 @@ We expect all code to be written in a professional manner. That means there are 
 **Note: Skip problems Question 4 and Question 5.  Only Question 10 is BONUS.**
 
 * (10 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient.  You have followed directions to turn in the file, clearly labeling everything.  You have cited all sources and how you used them in the written portion of your answers.
-
 * (20 Points) *Question 1: Value Iteration.* You have written code for the value iteration algorithm that is general and passes the required tests.  
 * (5 Points) *Question 2: Bridge Crossing Analysis.* You have found a setting to the parameters that evokes the requested behavior.  You have discussed the results satisfactorily in the discussion part.
 * (5 Points) *Question 3: Policies.* You have found setting to the various parameters to get all five requested behaviors.  You have discussed the results satisfactorily in the discussion part.
@@ -48,17 +47,11 @@ We expect all code to be written in a professional manner. That means there are 
 * (5 Points) *Question 8: Bridge Crossing Revisited.* You have found a setting to the parameters that evokes the requested behavior.  You have discussed the results satisfactorily in the discussion part.
 * (5 Points) *Question 9: Q-Learning and Pacman.* You have implemented Q-Learning for Pacman and can reliably win on the small boards.
 * (20 Points) *Question 10 BONUS: Approximate Q-Learning.* You have implemented approximate Q-learning and passed all the required tests.  Congrats, you now have a fast, efficient, self-teaching Pacman (and 20 bonus points)!
-
 * (20 Points) *Written Portion.* Several of the questions ask you to investigate the behavior of the algorithms in various settings.  Include a file with **~1-2 paragraph** answers to the following questions.  Even if you are not able to complete the code, you may be able to discuss some of these questions and the response you should expect.
 	* Question 2: Discuss what you tried to get the optimal policy to cross the bridge.  Why did this work?  Could you have done something else?
 	* Question 3: For each of the 5 policies you set, discuss each.  Why did these values work?  What did you try that did not?  
 	* Question 6: Try a few settings to `-k` to change how long your agent has to learn.  Discuss the settings you tried and how the behavior changed (note, you should be comprehensive enough here to see a change).  Why did this happen?
 	* Question 7: As requested, play around with the various settings for the crawler including learning rate and epsilon.  What differences do these parameters make?  What behavior are you seeing change?  Why?
 	* Question 8: What settings did you end up finding for this problem?  Did it work?  Why or why not?
-
-
-
-
-
-
+	* Question 9: Discuss how your Pacman is doing.. what happens on the larger mazes?  If we change the learning parameters, does he do better?  Why or why not?
 * Total Score: 100
