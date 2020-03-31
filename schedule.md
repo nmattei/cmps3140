@@ -35,6 +35,8 @@ published: true
 
 You can also check out the [video lectures from Berkeley here](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html) which may be useful (though they do not line up with our class 100%).
 
+There is another good set of video lectures on various topics including CSPs and all the search algorithms from [John Levine at University of Strathclyde, Glasgow, UK.](https://www.youtube.com/channel/UCUbp3Qabq6iYQrN2QC-ZUXw/videos).
+
 | Date | Topic + Chapters | Resource Links |
 |:----:|----------------|:--------------:|
 | 1/14 | Course Overview / What is AI? <br /> RN Ch 1 | [Intro to AI PDF](https://drive.google.com/open?id=1IptL6SVS4ufSkS4uHkWfS8apCRyBAMkt) <br /> [Intro to AI PPTX](https://drive.google.com/open?id=12vTWKCwp76KEwcb5u5SXHJz5MjX1s9-0)|
