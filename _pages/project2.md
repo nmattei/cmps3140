@@ -42,7 +42,7 @@ We expect all code to be written in a professional manner. That means there are 
 * (15 Points) *Question 3: Alpha-Beta Pruning.* You have written code for an agent that uses Alpha-Beta pruning that is general and passes the required tests.  Note that your agent will still lose sometimes here.
 * (15 Points) *Question 4: Expectimax.* You have written code for a minimax that is general and passes the required tests.
 * (20 Points) *Question 5: Evaluation Function.* You have written code for an evaluation function agent that is general and passes the required tests.  This function will be scored based on its quality and speed.
-* (20 Points) *Written Portion.* Several of the questions ask you to investigate the behavior of the algorithms in various settings.  Include a file with **~1 paragraph** answers to the following questions.
+* (20 Points) *Written Portion.* Several of the questions ask you to investigate the behavior of the algorithms in various settings.  Include a file with **~1 paragraph** answers to the following questions. Even if you are not able to complete the code, you may be able to discuss some of these questions and the response you should expect.
 	* Question 1: Give the intuition behind your reflex agent.  Why did it work?  What did you try that didn't work?
 	* Question 2: What happens as you increase the search depth for your minimax agent?  Why do you think this is?
 	* Question 3: Compare the stright minimax agent to an Alpha-Beta pruning agent.  How much better or worse is it?  Why?

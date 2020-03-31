@@ -46,7 +46,7 @@ We expect all code to be written in a professional manner. That means there are 
 * (10 Points) *Question 6: Corners Problem: Heuristic.* You have written code that is reasonable, general, and passes the required tests.  Note that here efficiency may affect your score, but your explanation below carries weight as well!
 * (10 Points) *Question 7: Eating All The Dots.* You have written code that is reasonable, general, and passes the required tests.  Note that here efficiency may affect your score, but your explanation below carries weight as well!
 * (10 Points) *Question 8: Suboptimal Search.* You have written code that is reasonable, general, and passes the required tests.
-* (10 Points) *Written Portion.* Several of the questions ask you to investigate the behavior of the algorithms in various settings.  Include a file with **~1 paragraph** answers to the following questions.
+* (20 Points) *Written Portion.* Several of the questions ask you to investigate the behavior of the algorithms in various settings.  Include a file with **~1 paragraph** answers to the following questions. Even if you are not able to complete the code, you may be able to discuss some of these questions and the response you should expect.
   * Question 4: What happens when you run A* on `OpenMaze` with the Manhattan heuristic?  Why?
   * Question 5: What did you choose to include in your game state?  Why?  How many nodes does BFS expand in your representation?
   * Question 6: What did you choose as a heuristic?  Why?  Argue (i.e., prove) why it is admissible.  How many game states did it explore?
