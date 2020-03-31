@@ -22,7 +22,7 @@ When writing your code you should make use of the `util.py` when making data str
 
 ### What To Turn In!
 
-Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains  ...  as well as a text file that captures the **entire output** of the autograder.  Name the output capture `Lastname.Autograder.txt/pdf/docx`.
+Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains `valueIterationAgents.py`, `qlearningAgents.py`, and `analysis.py`,  as well as a text file that captures the **entire output** of the autograder.  Name the output capture `Lastname.Autograder.txt/pdf/docx`.
 
 You should also include answers to the *written portion* questions below in your zip file.  This should be named `Lastname.WrittenAnswers.pdf/docx/txt`.
 
