@@ -4,7 +4,7 @@ title: Project 0
 published: true
 ---
 
-## Project 0
+## Project 0: Getting Setup!
 
 ### Setting up the Environment.
 

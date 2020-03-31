@@ -6,8 +6,6 @@ published: true
 
 ## Project 2: Multiagent Search
 
-### Multiagent Search
-
 Note that there seems to be some issues with TKinter and newer versions of Python (above 3.7) on the newest version of MacOS.  If your computer randomly logs you out when you try to run PacMan then [please try the tips here](https://www.python.org/download/mac/tcltk/#built-in-8-6-8), or simply downgrade Tkinter using the command: `conda install tk=8.6.7`
 
 ### The Assignment
