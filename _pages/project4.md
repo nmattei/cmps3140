@@ -6,7 +6,7 @@ published: true
 
 ## Project 4: Reinforcement Learning
 
-Note that there seems to be some issues with TKinter and newer versions of Python (above 3.7) on the newest version of MacOS.  If your computer randomly logs you out when you try to run PacMan then [please try the tips here](https://www.python.org/download/mac/tcltk/#built-in-8-6-8), or simply downgrade Tkinter using the command: `conda install tk=8.6.7`
+**Note:** For Project 4 you are allowed to work in teams of size 2.  If you complete the project in a team both of you must turn in exactly the same assignment through Canvas.  In your writeup you must clearly label whom you worked with and **how you worked together**.  Examples include: we setup a private Github repo to cordinate code and we met on Zoom X times.  Failure to turn in a collaboration plan that shows you cordinated will be a loss of professionalism points.  The turned in result will need to reflect the understanding of both students as we are still going to ask questions about this Project on the final!
 
 ### The Assignment
 
@@ -33,6 +33,8 @@ You should rename the folder (before zipping it) to `Lastname.Project4`. Please 
 Note that for all of these projects simply passing the autograder is not sufficient to ensure full credit.  We will include comments to why points were taken away -- if you are still confused Arie and Dr. Mattei are available to talk to you and provide explanations.  
 
 We expect all code to be written in a professional manner. That means there are comments where there needs to be, that the code is written in a general way that is (reasonably) efficient, and that you use naming conventions that others can understand.  If we open your code and we can't understand it, you will lose points even if it works.
+
+**Note:** For Project 4 you are allowed to work in teams of size 2.  If you complete the project in a team both of you must turn in exactly the same assignment through Canvas.  In your writeup you must clearly label whom you worked with and **how you worked together**.  Examples include: we setup a private Github repo to cordinate code and we met on Zoom X times.  Failure to turn in a collaboration plan that shows you cordinated will be a loss of professionalism points.  The turned in result will need to reflect the understanding of both students as we are still going to ask questions about this Project on the final!
 
 **Note: Skip problems Question 4 and Question 5.  Only Question 10 is BONUS.**
 
