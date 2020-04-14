@@ -17,7 +17,7 @@ published: true
 | 1 | 2/18 | [Pacman Search](./_pages/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 2 | 3/26 | [Multi-Agent Search](./_pages/project2.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 3 | 4/28 | [Constraint Programming](./_pages/project3.md) | Follow the specific directions in the instructions and rubric! |
-| 4 | 4/28 | [Reinforcement Learning](./_pages/project4.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
+| 4 | 4/30 | [Reinforcement Learning](./_pages/project4.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 
 ## Homeworks
 
@@ -65,10 +65,10 @@ There is another good set of video lectures on various topics including CSPs and
 |  4/2 | Markov Decision Processes (MDPs) 2 <br /> RN Ch 16.1-16.3, 17.1-17.3 | |
 |  4/7 | **No Class - Spring Break** | |
 |  4/9 | **No Class - Spring Break** | |
-| 4/14 | Reinforcement Learning I <br /> RN Ch 21 | [RL PDF](https://drive.google.com/open?id=18fRjubTyh0gNticKCGE6wCUzWQXQNow5) <br /> [RL PPTX](https://drive.google.com/open?id=16wTGnDvBIWss-Wo-HYSHd2_ArZNfprcF) <br /> [Berkeley Notes](https://drive.google.com/open?id=19IbPoO1qkzNqx4QS8RlLGyd1pNQjzqKl) |
+| 4/14 | MDPs / Reinforcement Learning I <br /> RN Ch 21 | [RL PDF](https://drive.google.com/open?id=18fRjubTyh0gNticKCGE6wCUzWQXQNow5) <br /> [RL PPTX](https://drive.google.com/open?id=16wTGnDvBIWss-Wo-HYSHd2_ArZNfprcF) <br /> [Berkeley Notes](https://drive.google.com/open?id=19IbPoO1qkzNqx4QS8RlLGyd1pNQjzqKl) |
 | 4/16 | Reinforcement Learning II <br /> RN Ch 21 | |
 | 4/21 | Bayesian Belief Networks I <br /> RN Ch 13, 14 | |
 | 4/23 | Prop. Logic / First Order Logic / Inference <br /> RN Ch 8-9 | |
-| 4/28 | Social Choice(?) Recap, Outro, Review | |
+| 4/28 | **Guest Lecture: Kartik Talamadupula - IBM Research AI** <br />  Recap, Outro, Review | |
 |  5/6 | **Final Exam: ST302 800-1200** | |
 
