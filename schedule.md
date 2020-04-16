@@ -16,7 +16,7 @@ published: true
 | 0 | 1/23 | [Intro to Python and Unix/Linux and Autograder](./_pages/project0.md) | Follow the specific directions in the instructions and rubric! |
 | 1 | 2/18 | [Pacman Search](./_pages/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 2 | 3/26 | [Multi-Agent Search](./_pages/project2.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
-| 3 | 4/28 | [Constraint Programming](./_pages/project3.md) | Follow the specific directions in the instructions and rubric! |
+| 3 | 4/30 | [Constraint Programming](./_pages/project3.md) | Follow the specific directions in the instructions and rubric! |
 | 4 | 4/30 | [Reinforcement Learning](./_pages/project4.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 
 ## Homeworks
