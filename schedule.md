@@ -62,13 +62,13 @@ There is another good set of video lectures on various topics including CSPs and
 | 3/24 | Course Updates / Constraint Satisfaction Problems (CSPs) <br /> RN Ch 6 | [CSP PDF](https://drive.google.com/open?id=1EAQcd0cqWVXxF1Ac_zNovTei5audRCxg) <br /> [CSP PPTX](https://drive.google.com/open?id=1PAEuNArC41RDJnmYCNvG_elSUgUZJ-np) <br /> [Berkeley Notes](https://drive.google.com/open?id=1pK6zC2SjJT1eObA4qxxtshzo0wqojY3y)  |
 | 3/26 | CSPsII / Logical Agents <br /> RN Ch 7.1-7.3, 7.7 | [Logical Agents](https://drive.google.com/open?id=1zBSGDInJ5PMZ5rbLME2ns5tob6GKxkJH) [PPTX](https://drive.google.com/open?id=18eLzYPp6VXuFd2TXbrigm66vdvmOCBV-) |
 | 3/31 | CSPs III / Logical Agents / Utility Theory / Markov Decision Process (MDPs) 1 <br /> RN Ch 16.1-16.3, 17.1-17.3 | [MDPs PDF](https://drive.google.com/open?id=1fPb1fZhRjjxxiKEPpVPVc5J2RgvkPGAz) <br /> [MDPs PPTX](https://drive.google.com/open?id=1IsBnA83U7N_nhQFDc66egXxfG20WEcPU) <br /> [Berkeley Notes](https://drive.google.com/open?id=1n1zhpliKROMUPRthYF5Q1Bvut2EQkpij) <br /> Notes for Utility Theory in Adversarial Search above. |
-|  4/2 | Markov Decision Processes (MDPs) 2 <br /> RN Ch 16.1-16.3, 17.1-17.3 | |
+|  4/2 | Utility Theory / Markov Decision Processes (MDPs) 1 <br /> RN Ch 16.1-16.3, 17.1-17.3 | |
 |  4/7 | **No Class - Spring Break** | |
 |  4/9 | **No Class - Spring Break** | |
-| 4/14 | MDPs / Reinforcement Learning I <br /> RN Ch 21 | [RL PDF](https://drive.google.com/open?id=18fRjubTyh0gNticKCGE6wCUzWQXQNow5) <br /> [RL PPTX](https://drive.google.com/open?id=16wTGnDvBIWss-Wo-HYSHd2_ArZNfprcF) <br /> [Berkeley Notes](https://drive.google.com/open?id=19IbPoO1qkzNqx4QS8RlLGyd1pNQjzqKl) |
-| 4/16 | Reinforcement Learning II <br /> RN Ch 21 | |
-| 4/21 | Bayesian Belief Networks I <br /> RN Ch 13, 14 | |
-| 4/23 | Prop. Logic / First Order Logic / Inference <br /> RN Ch 8-9 | |
-| 4/28 | **Guest Lecture: Kartik Talamadupula - IBM Research AI** <br />  Recap, Outro, Review | |
+| 4/14 | Markov Decision Processes (MDPs) II <br /> RN Ch 17.1-17.3 | |
+| 4/16 | Markov Decision Processes (MDPs) III <br /> RN Ch 17.1-17.3 | |
+| 4/21 | Reinforcement Learning I <br /> RN Ch 21 | [RL PDF](https://drive.google.com/open?id=18fRjubTyh0gNticKCGE6wCUzWQXQNow5) <br /> [RL PPTX](https://drive.google.com/open?id=16wTGnDvBIWss-Wo-HYSHd2_ArZNfprcF) <br /> [Berkeley Notes](https://drive.google.com/open?id=19IbPoO1qkzNqx4QS8RlLGyd1pNQjzqKl) | |
+| 4/23 | Reinforcement Learning II / Social Choice <br /> RN Ch 21 | [Social Choice PDF](https://drive.google.com/open?id=1qf6_S9kVmbyNpM3py_gSsSlEIOM29hJ_) |
+| 4/28 | **Guest Lecture: Kartik Talamadupula - IBM Research AI** <br />, Review | [Review PDF](https://drive.google.com/open?id=1jGrljpEN2IHmAgqxnkZc-msEbDWU9xlu) |
 |  5/6 | **Final Exam: ST302 800-1200** | |
 
