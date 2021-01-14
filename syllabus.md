@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Intro. to Artificial Intelligence
-subtitle: CMPS 3140/3640 - Spring 2020
+subtitle: CMPS 3140/6140 - Spring 2021
 published: true
 ---
 ## Introduction to Artificial Intelligence
-CMPS 3140 / 3640
-Spring 2020
+CMPS 3140 / 6140
+Spring 2021
 3 Credit Hours
 Tulane University
 
