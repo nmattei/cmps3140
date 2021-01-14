@@ -1,41 +1,26 @@
 ---
 layout: page
-title: Spring 2020 Schedule
+title: Spring 2021 Schedule
 published: true
 ---
+**While I make every effort to keep these tables up to date, if there is ever a conflict on due date, the assignment due date in [Canvas](https://tulane.instructure.com/) supersedes anything posted here.**
 
-**Note:** This is an upper division computer science course, *it is hard*, there will be a lot of work.  You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).  Expected workload is:
-  * Readings -- 1 hour per week.
-  * Homeworks will generally be 1-2 hours of work.
-  * Projects will be 10-15 hours of work.
+Quick Links for additional resources and course materials:
+* All recordings of every lecture is available in [Canvas](https://tulane.instructure.com/)
+* All pre-class slides and comics (with announcements) can be found in [this Gdrive folder in Powerpoint and PDF](https://drive.google.com/drive/folders/1Avj42GSClNQn0XIdnTMOzDNBL1thn04N?usp=sharing)!
+* For a detailed list of assignments, learning time, and grading rubrics, pleasee go to the [Assignments Page.](./assignments.md)
 
-## Projects
+Additional Outside Material:
+* **Note:** The Berkeley Notes documents below are linked from Dan Klein and Peter Abbeel's older course at [UC Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html).  These are supplmental, we cover some of this material and some of the material we cover are not in these notes.  These are not comprehensive but rather additional resources for you to use.
+* You can also check out the [video lectures from Berkeley here](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html) which may be useful (though they do not line up with our class 100%)
+* There is another good set of video lectures on various topics including CSPs and all the search algorithms from [John Levine at University of Strathclyde, Glasgow, UK.](https://www.youtube.com/channel/UCUbp3Qabq6iYQrN2QC-ZUXw/videos).
 
-| Project | Due Date | Link | Notes |
-|:-------:|:--------:|----|-----|
-| 0 | 1/23 | [Intro to Python and Unix/Linux and Autograder](./_pages/project0.md) | Follow the specific directions in the instructions and rubric! |
-| 1 | 2/18 | [Pacman Search](./_pages/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
-| 2 | 3/26 | [Multi-Agent Search](./_pages/project2.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
-| 3 | 4/30 | [Constraint Programming](./_pages/project3.md) | Follow the specific directions in the instructions and rubric! |
-| 4 | 4/30 | [Reinforcement Learning](./_pages/project4.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
+## Detailed Schedule
 
-## Homeworks
+<iframe style="width: 100%; height: 2000px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vR0PW7ETZNpoLlYvaIBGhWtsu7CUlRP0eVum8Ns_9uIt28zsEfC-E_KrRvk0wYVkPaBD0323qqXQYY-/pub?embedded=true"></iframe>
 
-| Homework | Due Date | Link |
-|:-------:|:--------:|:----:|
-| 0 | 1/30 | [Homework 0 PDF](https://drive.google.com/open?id=13UQLGkp9Q2dBVC4YaZDDnkJN1XzErL8I)
-| 1 | 2/13 | [Homework 1 PDF](https://drive.google.com/open?id=1w_T4zC9brhJFohZxFx_vLbuG5RBo3s4h)   
-| 2 | 3/3  | [Homework 2 PDF](https://drive.google.com/open?id=18KWPbJ-y0bmqM7sPPjEMnGqECYA9kBog)  
-| 3 | 4/2  | [Homework 3 PDF](https://drive.google.com/open?id=1XbfWES4WbA8WEgtPs3WIRG2lhI4Y993S)
-| 4 | 4/21 | [Homework 4 PDF](https://drive.google.com/open?id=1O8d2Y5LD7Zraq9QQJwN3iUfcJh81G_Rb)
 
-## Schedule of Lectures and Slides
-
-**Note:** The Berkeley Notes documents below are linked from Dan Klein and Peter Abbeel's older course at [UC Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html).  These are supplmental, we cover some of this material and some of the material we cover are not in these notes.  These are not comprehensive but rather additional resources for you to use.
-
-You can also check out the [video lectures from Berkeley here](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html) which may be useful (though they do not line up with our class 100%).
-
-There is another good set of video lectures on various topics including CSPs and all the search algorithms from [John Levine at University of Strathclyde, Glasgow, UK.](https://www.youtube.com/channel/UCUbp3Qabq6iYQrN2QC-ZUXw/videos).
+## Schedule of Lectures and Slides Spring 2020
 
 | Date | Topic + Chapters | Resource Links |
 |:----:|----------------|:--------------:|

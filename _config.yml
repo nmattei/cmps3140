@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: CMPS 3140 Introduction to Artificial Intelligence
+title: CMPS 3140 Intro. to Artificial Intelligence
 
 # Short description of your site
-description: Tulane University, Spring 2020
+description: Tulane University, Spring 2021
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,13 +20,13 @@ description: Tulane University, Spring 2020
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
-  Social Isolation Syllabus: "isolation"
-  Schedule & Assignments: "schedule"
+  Syllabus: "syllabus"
+  Schedule: "schedule"
+  Assignments: "assignments"
   Links & Resources: "resources"
 
 collections:
-  pages:
+  projects:
     output: true
     permalink: /:path
 
@@ -42,15 +42,15 @@ collections:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-col: "#0033a0"
+navbar-text-col: "#FFFFFF"
+navbar-children-col: "#FFFFFF"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
+link-col: "#71C5E8"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#0033a0"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -178,12 +178,14 @@ defaults:
     values:
       layout: "post"
       comments: false  # add comments to all blog posts
+      ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
       social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
     values:
       layout: "page"
+      ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
       show-avatar: true
 
 # Use tags index page and make tags on each post clickable
