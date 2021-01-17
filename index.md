@@ -7,7 +7,7 @@ published: true
 <p style="text-align:center;"><img src="{{ 'img/hal.jpg' | relative_url }}" /></p>
 
 ## Introduction to Artificial Intelligence 
-* CMPS-3140/6140: Introduction to Data Science
+* CMPS-3140/6140: Introduction to Artificial Intelligence
 * Tulane University
 * 3 Credit Hours
 * Prerequisite Courses: CMPS 2200 Introduction to Algorithms
