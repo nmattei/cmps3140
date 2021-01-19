@@ -26,8 +26,8 @@ published: true
 * **Office Hours:** **TBD** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/). Only over Zoom for Spring 2021.
 
 **Teaching Assistants:** Arie Glazier <aglazier@tulane.edu> and Eli Mendels <emendels1@tulane.edu>
-*  Arie Office Hours: **TR 9:00-10:00a**, and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
-* Eli's Office Hours: **MW 16:15-18:15**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+*  Arie Office Hours: **TR 9:00 - 10:00a**, and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* Eli's Office Hours: **MW 16:15 - 18:15**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
 Arie, Eli, and Prof. Mattei have drop in office hours and **are available by appointment whenever you need!**.  Please reach out to us directly to setup extra time if you need more support during the semester.
 

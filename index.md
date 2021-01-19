@@ -16,7 +16,7 @@ published: true
 * **Lectures:** Tuesdays and Thursdays 
 * **Room:** Joseph Merrick Jones Memorial Room 204 ([Building 25](https://campusservices.tulane.edu/resources/map))
 * **Online:** All Lectures will be on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
-* **Time:** 15:40 -- 16:50
+* **Time:** 15:40 - 16:50
 * **Webpage:** [https://nmattei.github.io/cmps3140/](https://nmattei.github.io/cmps3140/)
 * **GitHub:** [https://github.com/nmattei/cmps3140](https://github.com/nmattei/cmps3140)
 * **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
