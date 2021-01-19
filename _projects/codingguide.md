@@ -1,3 +1,9 @@
+---
+layout: page
+title: Arie's Coding Guide
+published: true
+---
+
 # Arie's Coding Manifesto (aka Coding Best Practices)
 
 Hi! I'm Arie, one of your TAs for CMPS-3140 Introduction to Artificial Intelligence.  I'm a second year PhD student and have also been a professional software engineer for the past 5 years.  This course is heavily project based - you're going to read and write a lot of code.  For many of you, the projects will involve working in the largest codebase you've seen.  It may also be the first time you've implemented non-trivial algorithms with interactive components.
@@ -20,22 +26,20 @@ Understanding and **using** the concept of [Separation of Concerns](https://en.w
 
 > "The overall goal of separation of concerns is to establish a well-organized system where each part fulfills a meaningful and intuitive role while maximizing its ability to adapt to change ([source](https://www.castsoftware.com/blog/how-to-implement-design-pattern-separation-of-concerns))."
 
-* Do This:
+Do This:
 ```Python
 def get_data():
   ...
 def process_data(data):
   ...
-
 data = get_data()
 result = process_data(data)
 ```
-* Not This:
+Not This:
 ```Python
 def get_result():
   ... work to get data
   ... work to process data
-
 result = get_result()
 ```
 
@@ -74,15 +78,14 @@ You may think in the back of your mind "I should keep it just in case I need it 
 
 **NOTE**: Adding ```print``` statements or other debugging code is a great way to tackle programming problems.  If you are not doing that you're either a genius and should work at NASA or you're doing it wrong.  BUT, once you've figured everything out, delete them! 
 
-* Do This:
+Do This:
 ```Python
 def get_answer():
   return 42
-  
 meaning_of_life = get_answer()
 print(meaning_of_life)
 ```
-* Not This:
+Not This:
 ```Python
 def wrong_answer():
   print("I'm in the 'wrong_answer' function")
@@ -107,28 +110,28 @@ This section presents some code examples that make me say "yuck" when I see them
 
   * Do This:
   ```Python
-  for value in list_of_values:
-    do_something(value)
+    for value in list_of_values:
+      do_something(value)
   ```
   * Not This:
   ```Python
-  for i in range(len(list_of_values)):
-    value = list_of_values[i]
-    do_something(value)
+    for i in range(len(list_of_values)):
+      value = list_of_values[i]
+      do_something(value)
   ```
 
 2. While Loops
 * Do This:
 ```Python
-for value in list_of_values:
-  do_something(value)
+  for value in list_of_values:
+    do_something(value)
 ```
 * Not This:
 ```Python
-i = 0
-while i < len(list_of_values):
-  do_something(list_of_values[i])
-  i += 1
+    i = 0
+    while i < len(list_of_values):
+      do_something(list_of_values[i])
+      i += 1
 ```
 3. Nesting/Too Many Loops
 * Do This:
