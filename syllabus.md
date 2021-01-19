@@ -5,37 +5,48 @@ subtitle: CMPS 3140/6140 - Spring 2021
 published: true
 ---
 ## Introduction to Artificial Intelligence
-CMPS 3140 / 6140
-Spring 2021
-3 Credit Hours
-Tulane University
+* CMPS 3140 / 6140: Introduction to Artificial Intelligence
+* Tulane University
+* Spring 2021
+* 3 Credit Hours
+* Prerequisite Courses: CMPS 2200 Introduction to Algorithms or consent of instructor.
 
 ## Time and Location
 * **Lectures:** Tuesdays and Thursdays 
-* **Room:** Online Only Now... see the [Social Isolation Syllabus](https://nmattei.github.io/cmps3140/isolation) for updated policies.
-* **Time:** 0930 - 1045
+* **Room:** Joseph Merrick Jones Memorial Room 204 ([Building 25](https://campusservices.tulane.edu/resources/map))
+* **Online:** All Lectures will be on Zoom, see [Tulane Canvas](https://tulane.instructure.com/) for details.
+* **Time:** 15:40 -- 16:50
 * **Webpage:** [https://nmattei.github.io/cmps3140/](https://nmattei.github.io/cmps3140/)
+* **GitHub:** [https://github.com/nmattei/cmps3140](https://github.com/nmattei/cmps3140)
+* **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
 
 ## Instructor and TA Information
-**Instructor:** Dr. Nicholas Mattei
-*   Email: <nsmattei@tulane.edu>
-*   Office: Stanley Thomas 402B
-*   Office Hours: T and R 1500 - 1600 and by appointment.  Online only!!
+**Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
+* **Office:** Stanley Thomas 402B
+* **Office Hours:** **TBD** and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/). Only over Zoom for Spring 2021.
 
-**Teaching Assistant:** Arie Glazier
-*   Email: <aglazier@tulane.edu>
-*   Office: Stanley Thomas 309
-*   Office Hours: M and W 1000 - 1100 -- see updates from the [Social Isolation Syllabus](https://nmattei.github.io/cmps3140/isolation) for updated policies.  Arie is available on demand the rest of the course, email to setup: <aglazier@tulane.edu>.
+**Teaching Assistants:** Arie Glazier <aglazier@tulane.edu> and Eli Mendels <emendels1@tulane.edu>
+*  Arie Office Hours: **TR 9:00-10:00a**, and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* Eli's Office Hours: **MW 16:15-18:15**, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
-If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2206549/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
+Arie, Eli, and Prof. Mattei have drop in office hours and **are available by appointment whenever you need!**.  Please reach out to us directly to setup extra time if you need more support during the semester.
 
-Students are reminded to make use of office hours.  Please reach out to Arie and I whenever you need and we can make appointments to meet if you require it.
+If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2227316/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
+
+## Course Communication Policy
+There are a variety of methods you can use to get in touch with us, and we expect to be able to get in touch with you.  A few general policies.
+* When emailing, please email all TA's and Prof. Mattei.  We will respond within 24 hours, except on weekends.  Turn around may be faster, but do not rely on it.
+* We expect the same from you: that you will check your email/Canvas every 24 hours, except on weekends.  All major announcements will be distributed via the Announcements function of Canvas.
+* Arie, Eli, and Prof. Mattei have drop in office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester.
+* If you have a general question, please check or post on the [discussion board on Canvas!](https://tulane.instructure.com/courses/2220511/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
+
+---
 
 ## Overview / Catalog Course Description
 
 The aim of this course is to provide the student with an introduction to the main concepts and techniques playing a key role in the modern arena of artificial intelligence. In addition to covering the main topics that concern modern AI, particular attention will be devoted to its applications in several fields. Among the topics covered are: "What is an intelligent artificial agent?", problem solving using search and constraint satisfaction, uncertainty, Bayesian networks and probabilistic inference, supervised learning, planning, sequential decision problems, as well as several additional topics.
 
-Prerequisite(s): CMPS 1500 and CMPS/MATH 2170
+Prerequisite(s): CMPS 2200 Introduction to Algorithms or consent of instructor.
 
 **Note.** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and an understanding of basic algorithms is expected.  We will be working with large projects so you will be requried to spend time navigating a code base you did not write.
 
@@ -65,10 +76,11 @@ By Stuart Russell and Peter Norvig [Website](http://aima.cs.berkeley.edu/).
 ## Evaluation Procedures and Grading Criteria
 
 This course will consist of four distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
-*   5% - In Class Activities and Participation
-*   15% - Written Homeworks
-*   30% - Projects
-*   25% - Midterm Exam
+*	  5% - In Class Activities, Participation, Online Questions.
+*   5% - Attendance
+*   20% - Written Homeworks
+*   25% - Projects
+*   20% - Midterm Exam
 *   25% - Final Exam
 
 **In Class Activities and Participation.** Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing.
@@ -77,20 +89,20 @@ This course will consist of four distinct grading areas.  Note that all point va
 
 **Projects (10-15 hours each).** We will be using a subset of the [PacMan projects](https://inst.eecs.berkeley.edu/~cs188/fa19/projects/) originally created for the UC: Berkeley CS188 Intro to AI Course.  Note that we are going to use the newer Python 3.x versions so please make sure you use the links from this web-page to find them.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Obtaining a solution from another source without citing the source is plagiarism.  Like homeworks, you are encouraged to discuss the projects in small groups, **as long as you give credit to whomever you discussed the topics with in the written portion of the projects**.
 
-**Graduate Students.** Taking this course will be given one additional programming project towards the second half of the course. 
+**Graduate Students.** Taking this course will be required to complete all projects independently instead of in groups. 
 
 **Midterm and Final Exams.** These will be written, close book, in class exam and the final during the scheduled final period.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  This will be turned in with your exam.  **You must earn at least a 60% average between the two exams to pass the course.**
 
-**Late Work Policy.**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **20% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
+**Late Work Policy.**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **10% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
 
-**Late Tokens.** At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for **programming projects only**.  Each token is worth one additional day, to use at your discretion.  These tokens will be automatically applied and you do not need to let us know.  These tokens have no cash value.  If you are still holding tokens at the end of the semester they will automatically be converted to 1% bonus points on your **projects** grade.
+**Late Tokens.** At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for **programming projects and homeworks**.  Each token is worth one additional day, to use at your discretion.  These tokens will be automatically applied and you do not need to let us know.  These tokens have no cash value.  If you are still holding tokens at the end of the semester they will automatically be converted to 1% bonus points on your **projects** grade.
 
 **Final Grade Policy.** The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
-* A >= 90%
-* B >= 80%
-* C >= 70%
-* D >= 60%
-* F < 60% 
+* A >= 92%, A- >= 90%,
+* B+ >= 88%, B >= 82%, B- >= 80%,
+* C+ >= 78%, C >= 72%, C- >= 70%,
+* D+ >= 68%, D >= 62%, D- >= 60%,
+* F < 59%
 
 **All grades will be posted on [Canvas](https://tulane.instructure.com/) throughout the semester.**
 
@@ -123,9 +135,22 @@ This is an upper division computer science course, it is hard.  You will sometim
   * Homeworks will generally be 1-2 hours of work.
   * Projects will be 10-15 hours of work.
 
-## ADA / Accessibility Statement
 
-Any students with disabilities or other needs, who need special accommodations in this course, are invited to share these concerns or requests with the instructor and should contact Goldman Center for Student Accessibility: [http://accessibility.tulane.edu](http://accessibility.tulane.edu) or 504.862.8433.
+## Student Support Services
+As we move to remote teaching Tulane has moved a number of student success resources online.  Please visit the [Virtual Learning Student Support Pages](https://success.tulane.edu/virtual-learning-student-support) for more information.
+
+Please come talk to us if you feel you are behind or overwhelmed in this class.  We can work with you and Tulane provides a suite of services to help you succeed in this course including the following.  For more information please visit the [student support services webpage](https://studentaffairs.tulane.edu/).
+
+* Academic Advising - Advising maximizes student potential by sharing information, tools, and resources that empower them to make informed decisions about creating appropriate plans to achieve their academic goals. 
+* Academic Learning & Tutoring - The ALTC supports students through supplemental instruction, peer tutoring, writing and presentation consultations, pop-up review sessions, study space, and online learning resources. 
+* Case Management and Counseling - Students can leverage support services such as [CAPS for Counseling Services](https://campushealth.tulane.edu/caps), [Case Management and Victim Support Services](https://cmvss.tulane.edu/), and [Goldman Center for Student Accessibility](https://accessibility.tulane.edu/).
+* Success Coaching - Coaches help students create actionable steps to meet goals on topics such as college transition, time-management, motivation, testing anxiety, stress management, and decision-making. 
+
+## ADA / Accessibility Statement
+Tulane University strives to make all learning experiences as accessible as possible. If you anticipate or experience academic barriers based on your disability, please let me know immediately so that we can privately discuss options. I will never ask for medical documentation from you to support potential accommodation needs. Instead, to establish reasonable accommodations, I may request that you register with the Goldman Center for Student Accessibility.  After registration, make arrangements with me as soon as possible to discuss your accommodations so that they may be implemented in a timely fashion. Goldman Center contact information: goldman@tulane.edu; (504) 862-8433; [http://accessibility.tulane.edu](http://accessibility.tulane.edu).
+
+## Recording of Class Sessions
+Recording class sessions: Classes will be recorded and the recordings will be posted to Canvas. Students may not post a class recording elsewhere, either wholly or in part. Instructors may use a class recording in another course or in a subsequent semester. 
 
 ## Code of Academic Conduct and Academic Integrity
 
@@ -147,3 +172,5 @@ Except in extreme circumstances, involving imminent danger to one’s self or ot
 Counseling and Psychological Services (CAPS): (504) 314-2277 or The Line (24/7): (504) 264-6074 | Case Management and Victim Support Services: (504) 314-2160 or <srss@tulane.edu>
 Student Health Center: (504) 865-5255 | Tulane University Police (TUPD): Uptown - (504) 865-5911. Downtown – (504) 988-5531
 Sexual Aggression Peer Hotline and Education (SAPHE): (504) 654-9543 | Title IX Coordinator: (504) 314-2160 or <msmith76@tulane.edu>
+
+<img src="{{ 'img/emergency.png' | relative_url }}" style="height:500px;"/>
