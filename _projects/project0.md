@@ -8,7 +8,7 @@ published: true
 
 **Note: This project is to be completed on your own. Later projects will come with partners but this project is solo!**
 
-As always, please follow the [Coding Guide](./_projects/codingguide.md) when writing code for this course.
+As always, please follow the [Coding Guide](codingguide.md) when writing code for this course.
 
 ### Setting up the Environment.
 
