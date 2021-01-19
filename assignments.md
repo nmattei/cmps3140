@@ -16,7 +16,7 @@ published: true
   * **Total:** 140 Hours.
 
 
-For all assignments in this course please have a read over [Aire's Handy Coding Guide](./_projects/codingguide.md). For all code you hand in for this course we expect you to follow these best practices -- if you don't, you'll lose *Professionalism* points.  We're not being mean, just trying to get you ready for coding with other people.
+For all assignments in this course please have a read over [Aire's Handy Coding Guide](codingguide.md). For all code you hand in for this course we expect you to follow these best practices -- if you don't, you'll lose *Professionalism* points.  We're not being mean, just trying to get you ready for coding with other people.
 
 ## Projects
 

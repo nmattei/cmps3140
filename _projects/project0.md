@@ -39,7 +39,7 @@ Note that for all of these projects simply passing the autograder is not suffici
 
 We expect all code to be written in a professional manner. That means there are comments where there needs to be, that the code is written in a general way that is (reasonably) efficient, and that you use naming conventions that others can understand.  If we open your code and we can't understand it, you will lose points even if it works.
 
-* (10 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient.  You have followed directions to turn in the file, clearly labeling everything. Please refer to the [Coding Guide](./_projects/codingguide.md) for additional instructions.
+* (10 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient.  You have followed directions to turn in the file, clearly labeling everything. Please refer to the [Coding Guide](codingguide.md) for additional instructions.
 * (10 Points) *Question 1:* You have written code for the addition function that is general and passes the required tests.
 * (10 Points) *Question 2:* You have written code for the buy lots of fruit function that is efficient, general, and passes required tests.
 * (10 Points) *Question 3:* You have written code for the shop smart function that is reasonable, general, and passes the required tests.
