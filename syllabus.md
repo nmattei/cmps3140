@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Intro. to Artificial Intelligence
-subtitle: CMPS 3140/6140 - Spring 2021
+title: Spring 2021 Syllabus
+subtitle: CMPS 3140/6140 Intro. to Artificial Intelligence
 published: true
 ---
-## Introduction to Artificial Intelligence
+# Introduction to Artificial Intelligence
 * CMPS 3140 / 6140: Introduction to Artificial Intelligence
 * Tulane University
 * Spring 2021
@@ -42,13 +42,19 @@ There are a variety of methods you can use to get in touch with us, and we expec
 
 ---
 
-## Overview / Catalog Course Description
+# Table of Contents
+
+TBD
+
+---
+
+# Overview / Catalog Course Description
 
 The aim of this course is to provide the student with an introduction to the main concepts and techniques playing a key role in the modern arena of artificial intelligence. In addition to covering the main topics that concern modern AI, particular attention will be devoted to its applications in several fields. Among the topics covered are: "What is an intelligent artificial agent?", problem solving using search and constraint satisfaction, uncertainty, Bayesian networks and probabilistic inference, supervised learning, planning, sequential decision problems, as well as several additional topics.
 
-Prerequisite(s): CMPS 2200 Introduction to Algorithms or consent of instructor.
+*Prerequisite(s):* CMPS 2200 Introduction to Algorithms or consent of instructor.
 
-**Note.** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and an understanding of basic algorithms is expected.  We will be working with large projects so you will be requried to spend time navigating a code base you did not write.
+**Note.** This is a programming and mathematics intensive class.  Students are expected to know the basics of Python and be able to navigate a Linux/Unix command prompt (the first programming assignment will test these abilities).  Likewise a working understanding of graph theory, probability theory, and an understanding of basic algorithms is expected.  We will be working with large projects so you will be required to spend time navigating a code base you did not write.
 
 ## Course Learning Outcomes
 
@@ -60,11 +66,13 @@ At the conclusion of this course students will be able to:
 *   Build an autonomous agent that efficiently makes decisions in fully informed, partially observable, and adversarial environments.
 *   Build an autonomous agent that is able to draw inferences in uncertain environments and optimize actions for arbitrary reward structures.
 
+Students should be comfortable with programming in at least one language (preferably [Python](https://www.python.org/)) and have had a reasonable amount of math including some linear algebra and algorithms.  You you should know what a matrix is and you should be comfortable with everything in CMPS/MATH 2170.  There are many helpful tutorials and background material at the [Links & Resources Page](./resources.md), please make use of it.
+
 ## Program-Level Outcomes
 
 This course fulfills the requirement of **one** of the CMPS 3000-level or above courses required for the coordinate major in computer science.  Students need to complete three such courses in order to complete the requirements for a coordinate major.  For more information on the coordinate major please see the requirements at [the Registrar's Website](https://catalog.tulane.edu/science-engineering/computer-science/computer-science-coordinate-major/#requirementstext)
 
-## Required and Suggested Student Resources
+# Required and Suggested Student Resources
 
 It is **very strongly suggested** that you obtain the course book.  I will be posting the chapters corresponding to the lectures in class and may occasionally post homework problems from the book.  If you have an interest in AI this book is really a fundamental reference text.
 
@@ -72,10 +80,12 @@ Artificial Intelligence: A Modern Approach (third edition), Prentice Hall, 2009.
 
 By Stuart Russell and Peter Norvig [Website](http://aima.cs.berkeley.edu/).
 
+There will be a number of additional readings posted on the [Schedule]() page and the [Links & Resources Page]() contains a host of additional free textbooks and supplementary material.
 
-## Evaluation Procedures and Grading Criteria
+---
 
-This course will consist of four distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
+# Evaluation Procedures and Grading Criteria
+This course will consist of six distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
 *	  5% - In Class Activities, Participation, Online Questions.
 *   5% - Attendance
 *   20% - Written Homeworks
@@ -83,21 +93,44 @@ This course will consist of four distinct grading areas.  Note that all point va
 *   20% - Midterm Exam
 *   25% - Final Exam
 
-**In Class Activities and Participation.** Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing.
+### Attendance
+Attendance will be monitored through an in-class survey (nearly) every day of class.  You are required to fill out this survey every day, synchronously in class unless you contact me to make alternative arrangements.
 
-**Written Homeworks (1-2 hours each).** We will have between 6-8 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
+### In Class Activities, Participation, and Questions
+Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. As we are online sometimes this may include posting things on the discussion board or answering a short quiz in Canvas on additional readings.  This may also include presenting/explaining answers to labs in class.
 
-**Projects (10-15 hours each).** We will be using a subset of the [PacMan projects](https://inst.eecs.berkeley.edu/~cs188/fa19/projects/) originally created for the UC: Berkeley CS188 Intro to AI Course.  Note that we are going to use the newer Python 3.x versions so please make sure you use the links from this web-page to find them.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Obtaining a solution from another source without citing the source is plagiarism.  Like homeworks, you are encouraged to discuss the projects in small groups, **as long as you give credit to whomever you discussed the topics with in the written portion of the projects**.
+### Written Homeworks (1-2 hours each). 
+We will have between 6-8 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
 
-**Graduate Students.** Taking this course will be required to complete all projects independently instead of in groups. 
+### Projects (10-15 hours each). 
+We will be using a subset of the [PacMan Projects](https://github.com/TulaneIntroDataScience/fall2019/tree/master/project0) originally created for the UC: Berkeley CS188 Intro to AI Course.  Note that we are going to use the newer Python 3.x versions so please make sure you use the links from this web-page to find them.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Obtaining a solution from another source without citing the source is plagiarism.  Like homeworks, you are encouraged to discuss the projects in small groups, **as long as you give credit to whomever you discussed the topics with in the written portion of the projects**.
 
-**Midterm and Final Exams.** These will be written, close book, in class exam and the final during the scheduled final period.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  This will be turned in with your exam.  **You must earn at least a 60% average between the two exams to pass the course.**
+**Note:** All code for this class is expected to follow best practices laid out in the [Programming Guide](codingguide.md).
 
-**Late Work Policy.**  All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **10% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
+**Note:** For the Spring 2021 semester most projects will be able to be done in teams.  However, Project 0 must be completed individually by all students.
 
-**Late Tokens.** At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for **programming projects and homeworks**.  Each token is worth one additional day, to use at your discretion.  These tokens will be automatically applied and you do not need to let us know.  These tokens have no cash value.  If you are still holding tokens at the end of the semester they will automatically be converted to 1% bonus points on your **projects** grade.
+### Midterm and Final Exam 
+This will be a written, close book, in class (online) exam.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  You will be required to turn in this cheat sheet **before** the actual exam and it will be graded for completeness. The final is cumulative.  This semester both exams will take place online, however you must be in the Zoom call to turn in and receive credit for taking the exam unless prior arrangements have been made. **You must earn at least a 60% average between the two exams to pass the course.**
 
-**Final Grade Policy.** The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
+To take the tests you need to get ready and get a Scan to PDF app ([see useful links here](https://fossbytes.com/best-android-scanner-apps/)).  Scanning is built into many phones now so please get ready, we will have a participation assignment that has you do this before the tests.  **We will not accept pictures, you must upload PDFs to Canvas.  It is also your responsibility to check your PDFs when they are submitted -- if we can't read them we can't grade them.  If you cannot do this please contact me ASAP.**
+
+### Additional Work For Graduate Students
+Graduate students who enroll in this course will be required to complete all projects independently instead of in groups. 
+
+## Policies Related to Turnig In Work
+
+* All work will be turned in on [Canvas](https://tulane.instructure.com/).  All work will either be distributed via [Canvas](https://tulane.instructure.com/) or via this course webpage.
+
+* All work will be due **at class time on the day assigned**.  This means turning things in during or after class is considered one day late.  This will be consistent throughout the semester.
+
+### Late Work Policy. 
+All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **10% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
+
+### Late Tokens. 
+At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for **programming projects and homeworks**.  Each token is worth one additional day, to use at your discretion.  These tokens will be automatically applied and you do not need to let us know.  These tokens have no cash value.  If you are still holding tokens at the end of the semester they will automatically be converted to 1% bonus points on your **projects** grade.
+
+## Final Grade Policy.
+The weighted average will determine your letter grade roughly as follows, +/- grades will be given for borderline cases.
 * A >= 92%, A- >= 90%,
 * B+ >= 88%, B >= 82%, B- >= 80%,
 * C+ >= 78%, C >= 72%, C- >= 70%,
@@ -108,13 +141,36 @@ This course will consist of four distinct grading areas.  Note that all point va
 
 **Note:** Due to the move to online classes the registrar has issued new guidance for graduate and undergraduate grades this semester.  The latest news can be [found on their website](https://registrar.tulane.edu/covid-19-grading-policy).
 
+--- 
+## Schedule and Workload
+
+See the [Schedule Page](./schedule.md) for the schedule and assignments.
+
+This is an upper division computer science course, *it is hard*, there will be a lot of work. You will sometimes have multiple assignments at a time and be responsible for managing the deadlines. Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).  
+
+If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
+
+Students are reminded to make use of office hours.  Please reach out to Prof. Mattei or any of the TAs whenever you need and we can make appointments to meet if you require it.
+
 ## Attendance
 
 **Students are required to attend all classes and labs unless they are ill or prevented from attending by exceptional circumstances and with a valid excuse note.** Students are responsible for notifying instructors about absences that result from serious illnesses, injuries, or critical personal problems.  **Students with frequent absences will be reported and/or removed from the course according to university policy.**
 
+Faculty and students must comply with University policies on COVID-19 testing and isolation, which are [located here](https://tulane.edu/covid-19/health-strategies). Faculty and students must wear face coverings in all common areas, including classrooms, and follow social distancing rules. Failure to comply is a violation of the Code of Student Conduct and students will be subject to University discipline, which can include suspension or permanent dismissal.
+
+If a student cannot attend class for any reason, the student is responsible for communicating with their instructors to make up any work they may miss. Faculty will provide online options for class participation, outlined in this document, and unless a student is seriously ill, they are expected to use this option. The University Health Center will provide documentation verifying a student is ill, as well as verification that a student may return to class. With the approval of the Newcomb - Tulane College dean, an instructor may have a student who has excessive absences involuntarily withdrawn from a course with a WF grade after written warning at any time during the semester.
+
+---
+
+# Other Course and Tulane Policies
+
+## Use of Electronic Devices
+
+Please silence your cellphones during class.  If you want to use a laptop or other device with a large screen for note taking please sit in the back rows of the classroom -- it’s distracting to other students [https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/](https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/)
+
 ## Student Support Services
 
-**Update:** As we move to remote teaching Tulane has moved a number of student success resources online.  Please visit the [Virtual Learning Student Support Pages](https://success.tulane.edu/virtual-learning-student-support) for more information.
+As we move to remote teaching Tulane has moved a number of student success resources online.  Please visit the [Virtual Learning Student Support Pages](https://success.tulane.edu/virtual-learning-student-support) for more information.
 
 Please come talk to us if you feel you are behind or overwhelmed in this class.  We can work with you and Tulane provides a suite of services to help you succeed in this course including the following.  For more information please visit the [student support services webpage](https://studentaffairs.tulane.edu/).
 
@@ -122,19 +178,6 @@ Please come talk to us if you feel you are behind or overwhelmed in this class. 
 * Academic Learning & Tutoring - The ALTC supports students through supplemental instruction, peer tutoring, writing and presentation consultations, pop-up review sessions, study space, and online learning resources. 
 * Case Management and Counseling - Students can leverage support services such as [CAPS for Counseling Services](https://campushealth.tulane.edu/caps), [Case Management and Victim Support Services](https://cmvss.tulane.edu/), and [Goldman Center for Student Accessibility](https://accessibility.tulane.edu/).
 * Success Coaching - Coaches help students create actionable steps to meet goals on topics such as college transition, time-management, motivation, testing anxiety, stress management, and decision-making. 
-
-## Use of Electronic Devices
-
-Please silence your cellphones during class.  If you want to use a laptop or other device with a large screen for note taking please sit in the back rows of the classroom -- it’s distracting to other students [https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/](https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/)
-
-## Schedule and Workload
-
-See the [Schedule Page](https://nmattei.github.io/cmps3140/schedule) for the schedule and assignments.
-
-This is an upper division computer science course, it is hard.  You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  Expect to spend 4-6 hours per week **outside of class** on this course.  You are expected to read the chapters on the schedule, about 1 hour per week of reading.  In addition, plan on:
-  * Homeworks will generally be 1-2 hours of work.
-  * Projects will be 10-15 hours of work.
-
 
 ## Student Support Services
 As we move to remote teaching Tulane has moved a number of student success resources online.  Please visit the [Virtual Learning Student Support Pages](https://success.tulane.edu/virtual-learning-student-support) for more information.
