@@ -10,9 +10,17 @@ published: true
 
 As always, please follow the [Coding Guide](codingguide.md) when writing code for this course.
 
+**Note:** There is an issue with the autograder and Python versions newer than 3.8! It's a small issue and in order to fix it you can either (1) downgrade your Python or (2) put the following two lines into the autograder file right under the end of the import block.
+```Python
+import html
+cgi.escape = html.escape
+```
+
 ### Setting up the Environment.
 
-If you need to install Linux and you have Windows 10 an easy way is to use the Linux Subsystem -- [use this guide.](https://www.dataquest.io/blog/tutorial-install-linux-on-windows-wsl/)
+Possibly the easiest way to get going with the code is to setup Anaconda on your system.  If you have trouble with this please use [Getting Started with Anaconda Guide](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html).
+
+If you need to install Linux and you have Windows 10 an easy way is to use the Linux Subsystem -- [use this guide.](https://www.dataquest.io/blog/tutorial-install-linux-on-windows-wsl/).  Note that this may have issues with the GUI but it should work.
 
 If you were in the Data Science class last year and are comfortable with Docker you can download the standard Ubuntu image from [DockerHub (Link)](https://hub.docker.com/_/ubuntu) and follow the [same directions as for the data science class (replacing the image in the directions discussed)](https://github.com/TulaneIntroDataScience/fall2019/tree/master/project0).
 
