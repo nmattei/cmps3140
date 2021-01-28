@@ -33,5 +33,5 @@ For all assignments in this course please have a read over [Aire's Handy Coding 
 
 | Homework | Due Date | Link |
 |:-------:|:--------:|:----:|
-| 0 | TBD | [Homework 0 PDF]()
+| 0 | 2/4/2020 | [Homework 0 PDF](https://drive.google.com/file/d/1O9VOe_7ORlk9WPqcOaqlrA-QsoH-MbM-/view?usp=sharing)
 
