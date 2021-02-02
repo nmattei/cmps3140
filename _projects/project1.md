@@ -73,14 +73,14 @@ We expect all code to be written in a professional manner. That means there are 
 **Reminder:** Please list any and all sources you use to complete this program, failure to do this is technically plagiarism and will be treated as such. You do not need to list the book or any references directly from the course page.  Remember that it is very easy to Google for these answers and it is against your academic code of conduct to do so. We will be doing code review, asking questions on the test to make sure you understand your work, and checking your code against other students and our database of code from the internet.  Please refer to the [Syllabus](syllabus) for more details.
 
 * (10 Points) *Professionalism*: You have written code that is interpretable -- it contains comments where needed to understand, variable names are reasonable, and code that is reasonable and efficient.  You have followed directions to turn in the file, clearly labeling everything.  You have cited all sources and how you used them in the written portion of your answers.
-* (15 Points) *Question 1: Finding a Fixed Food Dot using Depth First Search.* You have written code for DFS that is general and passes the required tests.
-* (10 Points) *Question 2: Breadth First Search* You have written code for BFS that is efficient, general, and passes required tests.  Works for different puzzles.
-* (15 Points) *Question 3: Varying the Cost Function.* You have written code that is reasonable, general, and passes the required tests.
-* (10 Points) *Written Portion.* In addition to just implementing the code we want to make sure you understand the details of what you have implemented.  Include a file with **~1 paragraph** answers to the following questions. Even if you are not able to complete the code, you may be able to discuss some of these questions and the response you should expect.
+* (20 Points) *Question 1: Finding a Fixed Food Dot using Depth First Search.* You have written code for DFS that is general and passes the required tests.
+* (15 Points) *Question 2: Breadth First Search* You have written code for BFS that is efficient, general, and passes required tests.  Works for different puzzles.
+* (20 Points) *Question 3: Varying the Cost Function.* You have written code that is reasonable, general, and passes the required tests.
+* (15 Points) *Written Portion.* In addition to just implementing the code we want to make sure you understand the details of what you have implemented.  Include a file with **~1 paragraph** answers to the following questions. Even if you are not able to complete the code, you may be able to discuss some of these questions and the response you should expect.
   * Written 1: What is the key difference between depth first search and breadth first search in your agent? How did you design your functions to be generalizable?
   * Written 2: What is the difference in cost for UCS with the StayWest and StayEast search agents you tested with in Question 3? What behavior is encouraged by changing the cost function? Why could this be useful?
 
-* Total Score: 60 Points
+* Total Score: 80 Points
 
 ### Code Review
 
