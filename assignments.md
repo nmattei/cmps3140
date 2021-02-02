@@ -23,7 +23,7 @@ For all assignments in this course please have a read over [Aire's Handy Coding 
 | Project | Due Date | Link | Notes |
 |:-------:|:--------:|----|-----|
 | 0 | 1/28 | [Intro to Python and Unix/Linux and Autograder](./_projects/project0.md) | Follow the specific directions in the instructions and rubric! |
-| 1 | -- | [Pacman Blind Search](./_projects/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
+| 1 | 2/11 | [Pacman Blind Search](./_projects/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 1 | -- | [Pacman Informed Search and Modeling](./_projects/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 2 | -- | [Multi-Agent Search](./_projects/project2.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 3 | -- | [Constraint Programming](./_projects/project3.md) | Follow the specific directions in the instructions and rubric! |
