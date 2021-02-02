@@ -10,8 +10,9 @@ published: true
 
 As always, please follow the [Coding Guide](codingguide.md) when writing code for this course.
 
-**Note:** There is an issue with the autograder and Python versions newer than 3.8! It's a small issue and in order to fix it you can either (1) downgrade your Python or (2) put the following two lines into the autograder file right under the end of the import block. Make sure that somewhere in the import block `import cgi` is present.
+**Note:** There is an issue with the autograder and Python versions newer than 3.8! It's a small issue and in order to fix it you can either (1) downgrade your Python or (2) put the following two lines into the autograder file right under the end of the import block.
 ```Python
+import cgi
 import html
 cgi.escape = html.escape
 ```
