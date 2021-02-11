@@ -24,10 +24,10 @@ For all assignments in this course please have a read over [Aire's Handy Coding 
 |:-------:|:--------:|----|-----|
 | 0 | 1/28 | [Intro to Python and Unix/Linux and Autograder](./_projects/project0.md) | Follow the specific directions in the instructions and rubric! |
 | 1 | 2/11 | [Pacman Blind Search](./_projects/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
-| 1 | -- | [Pacman Informed Search and Modeling](./_projects/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
-| 2 | -- | [Multi-Agent Search](./_projects/project2.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
-| 3 | -- | [Constraint Programming](./_projects/project3.md) | Follow the specific directions in the instructions and rubric! |
-| 4 | -- | [Reinforcement Learning](./_projects/project4.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
+| 2 | -- | [Pacman Informed Search and Modeling](./_projects/project1.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
+| 3 | -- | [Multi-Agent Search](./_projects/project2.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
+| 4 | -- | [Constraint Programming](./_projects/project3.md) | Follow the specific directions in the instructions and rubric! |
+| 5 | -- | [Reinforcement Learning](./_projects/project4.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 
 ## Homeworks
 

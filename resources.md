@@ -22,5 +22,7 @@ Links to other versions of this course and additional reading.  I have borrowed 
   * Yair Zick's Course at [NUS](https://www.comp.nus.edu.sg/~zick/teaching.html)
   * Also thanks to [Prof. K. Brent Venable](https://sites.google.com/site/kbrentvenable/) and [Prof. Jihun Hamm](http://www.cs.tulane.edu/~jhamm3/) for sharing their versions of this course with me.
 
+  * UC Santa Barbra [Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/)
+
 
 * [Gurobi Notebooks](https://www.gurobi.com/resource/modeling-examples-using-the-gurobi-python-api-in-jupyter-notebook/)

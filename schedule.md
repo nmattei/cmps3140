@@ -17,7 +17,7 @@ Additional Outside Material:
 
 ## Detailed Schedule
 
-<iframe style="width: 100%; height: 2000px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vR0PW7ETZNpoLlYvaIBGhWtsu7CUlRP0eVum8Ns_9uIt28zsEfC-E_KrRvk0wYVkPaBD0323qqXQYY-/pub?embedded=true"></iframe>
+<iframe style="width: 100%; height: 3500px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vR0PW7ETZNpoLlYvaIBGhWtsu7CUlRP0eVum8Ns_9uIt28zsEfC-E_KrRvk0wYVkPaBD0323qqXQYY-/pub?embedded=true"></iframe>
 
 
 ## Schedule of Lectures and Slides Spring 2020
