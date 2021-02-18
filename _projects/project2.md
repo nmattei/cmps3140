@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Project 1: Search
+title: Project 2: Informed Search
 published: true
 ---
 
-## Project 1: Informed Search!
+## Project 2: Informed Search!
 
 Note that there seems to be some issues with TKinter and newer versions of Python (above 3.7) on the newest version of MacOS.  If your computer randomly logs you out when you try to run PacMan then [please try the tips here](https://www.python.org/download/mac/tcltk/#built-in-8-6-8), or simply downgrade Tkinter using the command: `conda install tk=8.6.7`
 
@@ -89,7 +89,7 @@ We expect all code to be written in a professional manner. That means there are 
 * (15 Points) *Question 6: Corners Problem: Heuristic.* You have written code that is reasonable, general, and passes the required tests.  Note that here efficiency may affect your score, but your explanation below carries weight as well!
 * (15 Points) *Question 7: Eating All The Dots.* You have written code that is reasonable, general, and passes the required tests.  Note that here efficiency may affect your score, but your explanation below carries weight as well!
 * (10 Points) *Question 8: Suboptimal Search.* You have written code that is reasonable, general, and passes the required tests.
-* (20 Points) *Written Portion.* Several of the questions ask you to investigate the behavior of the algorithms in various settings.  Include a file with **~1 paragraph** answers to the following questions. Even if you are not able to complete the code, you may be able to discuss some of these questions and the response you should expect.
+* (20 Points) *Written Portion.* In addition to just implementing the code we want to make sure you understand the details of what you have implemented. Several of the questions ask you to investigate the behavior of the algorithms in various settings.  Include a file with **~1 paragraph** answers to the following questions. Even if you are not able to complete the code, you may be able to discuss some of these questions and the response you should expect.
   * Question 4: What happens when you run A* on `OpenMaze` with the Manhattan heuristic?  Why?
   * Question 5: What did you choose to include in your game state?  Why?  How many nodes does BFS expand in your representation?
   * Question 6: What did you choose as a heuristic?  Why?  Argue (i.e., prove) why it is admissible.  How many game states did it explore?
@@ -97,3 +97,7 @@ We expect all code to be written in a professional manner. That means there are 
   * Question 8: Describe a condition or a small example where `ClosestDotSearchAgent` will fail.
 
 * Total Score: 100 Points
+
+### Code Review
+
+After the project is turned in, Prof. Mattei will randomly select and reach out to 3 groups. You are expected to come to office hours with either Prof. Mattei or a TA and Prof. Mattei.  During this meeting we will be opening your code and you will answer several questions related to how you implemented your solution, why you made the decisions you made, and what various parts of the code are doing.
