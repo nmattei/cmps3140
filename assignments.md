@@ -4,7 +4,7 @@ title: Spring 2021 Schedule
 published: true
 ---
 
-## Worload and Learning Time
+## Workload and Learning Time
 
 **Note:** This is an upper division computer science course, *it is hard*, there will be a lot of work.  
 * You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).  
