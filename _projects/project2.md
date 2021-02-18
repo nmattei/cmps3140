@@ -52,8 +52,8 @@ I really cannot stress the following enough...
 
 | Resource | Link |
 |:-------:|:--------:|
-| Project 1: Files | [Link Here](https://inst.eecs.berkeley.edu/~cs188/fa20/assets/files/search.zip) |
-| Project 1: Search | [Link Here](https://inst.eecs.berkeley.edu/~cs188/fa20/project1/) |
+| Project 2: Files | [Link Here](https://inst.eecs.berkeley.edu/~cs188/fa20/assets/files/search.zip) |
+| Project 2: Search | [Link Here](https://inst.eecs.berkeley.edu/~cs188/fa20/project1/) |
 | 2020 Berkeley Pacman Projects | [Link Here](https://inst.eecs.berkeley.edu/~cs188/fa20/projects/) |
 
 ### What To Turn In!
@@ -73,7 +73,7 @@ Example Folder Structure for Prof. Mattei:
 ------
 ```
 
-You should rename the top level folder (before zipping it) to `Lastname.Project2` so that it is `LastName.Project1.zip`. You are not to modify any other files than the ones listed here, if you do we will not be able to run your code and you will lose points.
+You should rename the top level folder (before zipping it) to `Lastname.Project2` so that it is `LastName.Project2.zip`. You are not to modify any other files than the ones listed here, if you do we will not be able to run your code and you will lose points.
 
 ### Grading Rubric
 
