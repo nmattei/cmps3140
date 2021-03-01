@@ -35,8 +35,28 @@ For all assignments in this course please have a read over [Aire's Handy Coding 
 |:-------:|:--------:|:----:|
 | 0 | 2/4/2020 | [Homework 0 PDF](https://drive.google.com/file/d/1O9VOe_7ORlk9WPqcOaqlrA-QsoH-MbM-/view?usp=sharing)
 | 1 | 2/25/2020 | [Homework 1 PDF](https://drive.google.com/open?id=1F8roXI56b4z_ZUGiFrBFzKIhDBs9Hzm9)
-| 2 | -- | [Homework 2 PDF]()
+| 2 | -- | [Homework 2 PDF](https://drive.google.com/file/d/1T-_5Wn6eFj0lFW04ege1egSxpkpC5BAw/view?usp=sharing)
 | 3 | -- | [Homework 3 PDF]()
 | 4 | -- | [Homework 4 PDF]()
 | 5 | -- | [Homework 5 PDF]()
 
+## Discussions
+
+1. For our first group discussion have a listen to the Alan Turing Podcast from BBC4 which is all about his life, his contributions, and a whole lot about the beginning of AI! It's about 50 mins long (you don't need to listen to the extended bit if you don't want to). After listening join the discussion in your group -- you should make a minimum of 3 posts to receive full credit. And we'll chat a bit about this in class. Link to Podcast: https://www.bbc.co.uk/programmes/m000ncmw
+
+2. 
+
+3. 
+
+## Study Sheets for Tests
+
+Upload a PDF of your one page, front and back, hand written, study sheet.  This will be graded based on coverage for the first part of the semester. **This is due before the exam begins!**
+
+* **(5 Points) Professionalism.** Study sheet is well laid out, clear, and organized.
+* **(5 Points) Coverage.** Study sheet has good coverage of the material covered in class and in assignments.
+
+### Default Marking Guidelines
+
+| Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
+| : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
+| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
