@@ -35,7 +35,7 @@ For all assignments in this course please have a read over [Aire's Handy Coding 
 |:-------:|:--------:|:----:|
 | 0 | 2/4/2020 | [Homework 0 PDF](https://drive.google.com/file/d/1O9VOe_7ORlk9WPqcOaqlrA-QsoH-MbM-/view?usp=sharing)
 | 1 | 2/25/2020 | [Homework 1 PDF](https://drive.google.com/open?id=1F8roXI56b4z_ZUGiFrBFzKIhDBs9Hzm9)
-| 2 | -- | [Homework 2 PDF](https://drive.google.com/file/d/1T-_5Wn6eFj0lFW04ege1egSxpkpC5BAw/view?usp=sharing)
+| 2 | 3/9/2020 | [Homework 2 PDF](https://drive.google.com/file/d/1T-_5Wn6eFj0lFW04ege1egSxpkpC5BAw/view?usp=sharing)
 | 3 | -- | [Homework 3 PDF]()
 | 4 | -- | [Homework 4 PDF]()
 | 5 | -- | [Homework 5 PDF]()
