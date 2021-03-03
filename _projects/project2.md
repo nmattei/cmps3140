@@ -58,13 +58,13 @@ I really cannot stress the following enough...
 
 ### What To Turn In!
 
-Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains a sub-folder with **all of the files from the project Search**! At the top level you should also include a a text file that captures the **entire output** of the autograder.  Name the output capture `Lastname.Autograder.pdf`. You should also include answers to the *written portion* questions below in your zip file.  This should be named `Lastname.WrittenAnswers.pdf`.
+Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains a sub-folder with **all of the files from the project Search**! At the top level you should also include a a text file that captures the **entire output** of the autograder.  Name the output capture `Lastname.Autograder.txt`. You should also include answers to the *written portion* questions below in your zip file.  This should be named `Lastname.WrittenAnswers.pdf`.
 
 Example Folder Structure for Prof. Mattei:
 ```
 - Mattei.Project2
 |- Mattei.WrittenAnswers.pdf
-|- Mattei.Autograder.pdf
+|- Mattei.Autograder.txt
 |- Search
    |- pacman.py
    |- search.py
