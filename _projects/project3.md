@@ -69,7 +69,7 @@ Example Folder Structure for Prof. Mattei:
 |- Search
    |- pacman.py
    |- search.py
-   |- SearchAgents.py
+   |- multiAgents.py
    |- ...
 ------
 ```
