@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Project 4: Reinforcement Learning
+title: Project 5: Reinforcement Learning
 published: true
 ---
 
-## Project 4: Reinforcement Learning
+## Project 5: Reinforcement Learning
 
 **Note:** For Project 4 you are allowed to work in teams of size 2.  If you complete the project in a team both of you must turn in exactly the same assignment through Canvas.  In your writeup you must clearly label whom you worked with and **how you worked together**.  Examples include: we setup a private Github repo to coordinate code and we met on Zoom X times.... or even we used [Teletype for Atom](https://teletype.atom.io/) or [RemoteCollab for Sublime](https://packagecontrol.io/packages/RemoteCollab).  Failure to turn in a collaboration plan that shows you coordinated will be a loss of professionalism points.  The turned in result will need to reflect the understanding of both students as we are still going to ask questions about this Project on the final!
 

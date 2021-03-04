@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Project 3: Constraint Assignment
+title: Project 4: Constraint Programming
 published: true
 ---
 
-## Project 3: Constraint Assignment
+## Project 4: Constraint Programming
 
 Note that this project will make use of [MiniZinc](https://www.minizinc.org/).  You will need to download and install [MiniZinc](https://www.minizinc.org/) first.
 
