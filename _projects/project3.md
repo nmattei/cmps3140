@@ -27,7 +27,7 @@ Navigate over to the Berkeley Site for the PacMan Projects in the quick links be
 
 We'll be doing the third project: **Multi-Agent Search**.  Complete the five questions in the assignment and ensure that your solution passes the autograder.
 
-This project is designed to test both your Python3 knowledge, you ability to work with code written by others, and most importantly, your understanding of search and heuristics.
+This project is designed to test both your Python3 knowledge, you ability to work with code written by others, and most importantly, your understanding of search in multiagent environments!
 
 When writing your code you should make use of the `util.py` when making data structures.  In general it is good to look at the files `pacman.py`, `game.py`, and `util.py` to make sure you have an understanding of the way the game is represented.
 
@@ -36,7 +36,7 @@ When writing your code you should make use of the `util.py` when making data str
 | `ghostAgents.py` | Agents to control ghosts. |
 | `pacman.py` | The main file that runs Pacman games. This file describes a Pacman GameState type, which you use in this project. |
 | `game.py` | The logic behind how the Pacman world works. This file describes several supporting types like AgentState, Agent, Direction, and Grid. |
-| `util.py` | Useful data structures for implementing search algorithms. |
+| `util.py` | Useful data structures for implementing search algorithms. You don't need to use these for this project, but may find other functions defined here to be useful.
 
 In addition to these files you are going to be modifying the following files.
 
@@ -59,11 +59,11 @@ I really cannot stress the following enough...
 
 ### What To Turn In!
 
-Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains a sub-folder with **all of the files from the project Search**! At the top level you should also include a a text file that captures the **entire output** of the autograder.  Name the output capture `Lastname.Autograder.txt`. You should also include answers to the *written portion* questions below in your zip file.  This should be named `Lastname.WrittenAnswers.pdf`.
+Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains a sub-folder with **all of the files from the project Multiagent**! At the top level you should also include a a text file that captures the **entire output** of the autograder.  Name the output capture `Lastname.Autograder.txt`. You should also include answers to the *written portion* questions below in your zip file.  This should be named `Lastname.WrittenAnswers.pdf`.
 
 Example Folder Structure for Prof. Mattei:
 ```
-- Mattei.Project2
+- Mattei.Project3
 |- Mattei.WrittenAnswers.pdf
 |- Mattei.Autograder.txt
 |- Search

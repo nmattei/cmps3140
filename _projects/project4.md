@@ -8,7 +8,10 @@ published: true
 
 Note that this project will make use of [MiniZinc](https://www.minizinc.org/).  You will need to download and install [MiniZinc](https://www.minizinc.org/) first.
 
-It is highly recommended that you complete the video lectures with Pascal assigned in [Canvas](https://tulane.instructure.com/) before starting on this project.
+There are some additional videos on constraints from by old boss that may be helpful in getting this program done, especially the one on Symmetry Breaking which we only briefly touched on in class.
+* [Computational Paradigm and Modeling](https://drive.google.com/open?id=1Kehqa-25SzUq0UnTlS-_MG--nakejFya)
+* [Reification and Stable Marriages](https://drive.google.com/open?id=1svuTdWgYo8Mp3WMimgpG2rHu_bqcZNdX)
+* [Symmetry Breaking](https://drive.google.com/open?id=1WRSC3ZQOpSByIxKRS-31hyBdVVFLCtFq)
 
 I have assembled a number of examples of MiniZinc programs and PDFs of my old class where I go into greater detail on various aspects of efficient modeling.  [All these resources are available here](https://drive.google.com/open?id=1vf_0VivlRM1PABX8Jyza7BQWMozTdiH1).
 
@@ -130,7 +133,7 @@ Turn in through [Canvas](https://tulane.instructure.com/).  You will submit 4 fi
   * `Lastname.weddingseating.mzn` Your MiniZinc model of the problem.  This should be well documented and readable.
   * `Lastname.Example.dzn` An example problem that is **satisfiable** that you have created. It should have at least 20 guests seated at 4 tables.  It should not be trivial, ie., everyone  should not necessarily want to sit with everyone else.
   * `Lastname.out` The output of your model on your created input.  The output should correspond to the output file format.
-  * `Lastname.WrittenAnswers.\{pdf, doc, docx\}` This should be a approximately 2 page write-up of your project.  Specifically you should explain: 
+  * `Lastname.WrittenAnswers.pdf` This should be a approximately 2 page write-up of your project.  Specifically you should explain: 
     1. What the decision variables are in the model;
     2. Why you chose to model the problem with these decision variables;
     3. An explanation of each of the *constraint* lines in your model. You should be able to explain what the constraint is doing, and what it models in the real world.  Discuss why you chose the modeling approach you did whether you tried any other approaches and whether or not they worked.
@@ -139,7 +142,7 @@ Turn in through [Canvas](https://tulane.instructure.com/).  You will submit 4 fi
       b. There should be data points at 5, 10, 20, and 30 guests for each of the welfare functions. 
       c. A short paragraph about how using the different utility functions, the number of guests, and any other constraints you can think of to test did (or did not) affect the solve time of your model.
 
-You should submit a Zip file that contains all of the above components. You should rename the folder (before zipping it) to `Lastname.Project3`. Please make sure to zip and submit **only the files specifically listed here**.
+You should submit a Zip file that contains all of the above components. You should rename the folder (before zipping it) to `Lastname.Project4`. Please make sure to zip and submit **only the files specifically listed here**.
 
 ### Grading Rubric
 
@@ -155,4 +158,8 @@ We expect all code to be written in a professional manner. That means there are 
 * (10 Points) *Troublemakers*: Troublemakers are seated correctly and implementation is efficient.
 * (10 Points) *Preference Metrics*: Both preference metrics are implemented and there is a switch that is implemented reasonably.
 * (15 Points) *Efficiency/Model*: The model implemented is of high quality, breaks symmetries where necessary, and can solve large instance.
-* Total Score: 100 (divided by 2).
+* Total Score: 100.
+
+### Code Review
+
+After the project is turned in, Prof. Mattei will randomly select and reach out to 3 groups. You are expected to come to office hours with either Prof. Mattei or a TA and Prof. Mattei.  During this meeting we will be opening your code and you will answer several questions related to how you implemented your solution, why you made the decisions you made, and what various parts of the code are doing.
