@@ -20,6 +20,12 @@ If you really want to go down the rabbit hole there are multiple courses on disc
   * [Basic Modeling for Discrete Optimization](https://www.coursera.org/learn/basic-modeling)
   * [Advanced Modeling for Discrete Optimization](https://www.coursera.org/learn/advanced-modeling)
 
+### Working in Groups
+
+For this project you are allowed to work in teams of size 2.  If you complete the project in a team both members must turn in exactly the same assignment through Canvas.  In your writeup you must clearly label whom you worked with and **how you worked together**.  Examples include: we setup a private Github repo to coordinate code and we met on Zoom X times.... or even we used [LiveShare for VS Code](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) or [Teletype for Atom](https://teletype.atom.io/) or [RemoteCollab for Sublime](https://packagecontrol.io/packages/RemoteCollab).  Failure to turn in a collaboration plan that shows you coordinated will be a loss of professionalism points.  The turned in result will need to reflect the understanding of both students as we are still going to ask questions about this Project on the final and you both must be able to answer questions during code review.
+
+**Project partners should turn in exactly the same files in Canvas.**
+
 ### The Assignment
 
 We want to find out if we can seat all of our friends and relatives at our sister's upcoming wedding. Mom says money is a little tight so we need to make sure all the tables that we will order will at least have some people at them.  Every individual, family, or couple that received an invitation should be seated together.  Additionally, each person could suggest people that they would prefer to sit with.  Since this is so important to Mom we want to maximize the happiness she gets out of seeing all her friends and family sitting together happily at the wedding. For this assignment we are going to encode the problem as a constraint programming problem and find solutions so that everyone can have a fun and **happy** time.
