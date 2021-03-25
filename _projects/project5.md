@@ -6,19 +6,43 @@ published: true
 
 ## Project 5: Reinforcement Learning
 
-**Note:** For Project 4 you are allowed to work in teams of size 2.  If you complete the project in a team both of you must turn in exactly the same assignment through Canvas.  In your writeup you must clearly label whom you worked with and **how you worked together**.  Examples include: we setup a private Github repo to coordinate code and we met on Zoom X times.... or even we used [Teletype for Atom](https://teletype.atom.io/) or [RemoteCollab for Sublime](https://packagecontrol.io/packages/RemoteCollab).  Failure to turn in a collaboration plan that shows you coordinated will be a loss of professionalism points.  The turned in result will need to reflect the understanding of both students as we are still going to ask questions about this Project on the final!
+Note that there seems to be some issues with TKinter and newer versions of Python (above 3.7) on the newest version of MacOS.  If your computer randomly logs you out when you try to run PacMan then [please try the tips here](https://www.python.org/download/mac/tcltk/#built-in-8-6-8), or simply downgrade Tkinter using the command: `conda install tk=8.6.7`
+
+**Note:** There is an issue with the autograder and Python versions newer than 3.8! It's a small issue and in order to fix it you can either (1) downgrade your Python or (2) put the following two lines into the autograder file right under the end of the import block.
+```Python
+import cgi
+import html
+cgi.escape = html.escape
+```
+
+### Working in Groups
+
+For this project you are allowed to work in teams of size 2.  If you complete the project in a team both members must turn in exactly the same assignment through Canvas.  In your writeup you must clearly label whom you worked with and **how you worked together**.  Examples include: we setup a private Github repo to coordinate code and we met on Zoom X times.... or even we used [LiveShare for VS Code](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) or [Teletype for Atom](https://teletype.atom.io/) or [RemoteCollab for Sublime](https://packagecontrol.io/packages/RemoteCollab).  Failure to turn in a collaboration plan that shows you coordinated will be a loss of professionalism points.  The turned in result will need to reflect the understanding of both students as we are still going to ask questions about this Project on the final and you both must be able to answer questions during code review.
+
+**Project partners should turn in exactly the same files in Canvas.**
 
 ### The Assignment
 
-Navigate over to the [Berkeley Site for the PacMan Projects](https://inst.eecs.berkeley.edu/~cs188/fa18/projects.html) and specifically look at the one for [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html).  **Note:** There are a number of versions of these projects.  Please make sure you are following the links from the course website!
+Navigate over to the Berkeley Site for the PacMan Projects in the quick links below.  **Note:** There are a number of versions of these projects.  Please make sure you are following the links from the course website!
+
+We'll be doing the third project: **Reinforcement Learning**.
 
 We'll be doing the third project: [Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html).  **Complete only the subset of questions asked below and ensure that your solution passes the autograder for those questions.  Not all questions are required and a few are labeled as BONUS!**
 
-This project is designed to test both your Python3 knowledge, you ability to work with code written by others, and most importantly, your understanding of search and heuristics.
+This project is designed to test both your Python3 knowledge, you ability to work with code written by others, and most importantly, your understanding of MDPs and reinforcement learning!
 
 When writing your code you should make use of the `util.py` when making data structures.  In general it is good to look at the files `pacman.py`, `game.py`, and `util.py` to make sure you have an understanding of the way the game is represented.
 
-**Note: Read the directions closely on the Berkeley page... there are lots of hints.**
+
+### Quick Links
+
+| Resource | Link |
+|:-------:|:--------:|
+| Project 5: Files | [Link Here](https://inst.eecs.berkeley.edu/~cs188/fa20/assets/files/reinforcement.zip) |
+| Project 5: Reinforcement Learning | [Link Here](https://inst.eecs.berkeley.edu/~cs188/fa20/project3/) |
+| 2020 Berkeley Pacman Projects | [Link Here](https://inst.eecs.berkeley.edu/~cs188/fa20/projects/) |
+
+
 
 ### What To Turn In!
 

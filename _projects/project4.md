@@ -8,7 +8,7 @@ published: true
 
 Note that this project will make use of [MiniZinc](https://www.minizinc.org/).  You will need to download and install [MiniZinc](https://www.minizinc.org/) first.
 
-There are some additional videos on constraints from by old boss that may be helpful in getting this program done, especially the one on Symmetry Breaking which we only briefly touched on in class.
+There are some additional videos on constraints from my old boss that may be helpful in getting this program done, especially the one on Symmetry Breaking which we only briefly touched on in class.
 * [Computational Paradigm and Modeling](https://drive.google.com/open?id=1Kehqa-25SzUq0UnTlS-_MG--nakejFya)
 * [Reification and Stable Marriages](https://drive.google.com/open?id=1svuTdWgYo8Mp3WMimgpG2rHu_bqcZNdX)
 * [Symmetry Breaking](https://drive.google.com/open?id=1WRSC3ZQOpSByIxKRS-31hyBdVVFLCtFq)
@@ -43,7 +43,7 @@ We want to find a mapping of guests to tables such that:
 
 #### Measures of Utility
 
-We want to investigate different functions we can use to maximize the happiness or **utility** of all the guests at the wedding. We will investigate three different measures of utility. For more in-depth details of welfare and happiness see H. Moulin, [*Fair Division and Collective Welfare*](https://mitpress.mit.edu/books/fair-division-and-collective-welfare), MIT Press, 2004.  
+We want to investigate different functions we can use to maximize the happiness or **utility** of all the guests at the wedding. We will investigate two different measures of utility. For more in-depth details of welfare and happiness see H. Moulin, [*Fair Division and Collective Welfare*](https://mitpress.mit.edu/books/fair-division-and-collective-welfare), MIT Press, 2004.  
 
 Let *AtTable(t)* denote the set of people seated at table *t*, *Pref(i)* is the set of people *i* prefers to sit with, and *GuestAt(i)* is the table that *i* is seated at.
 
