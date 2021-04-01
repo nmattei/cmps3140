@@ -7,7 +7,7 @@ published: true
 If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/courses/2227316/discussion_topics). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 
 There are a few AI books online that provide additional explanations and examples.  These are generally free and open to download.
-  * [Artificial Intelligence 2E by David L. Poole and Alan K. Mackworth](https://artint.info/2e/html/ArtInt2e.html).
+  * [Artificial Intelligence 2E by David L. Poole and Alan K. Mackworth](https://artint.info/index.html). This book also has a great set of online resources and algorithm animations [AI Space](https://aispace2.github.io/AISpace2/index.html).
   * [A list of other books including some good free books on Machine Learning.](https://readyforai.com/article/best-books-on-artificial-intelligence-for-beginner-with-pdf-download/).
   * [Sutton and Barto Book on Reinforcement Learning](http://incompleteideas.net/book/RLbook2018.pdf)
 
