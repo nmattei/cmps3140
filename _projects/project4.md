@@ -150,6 +150,15 @@ Turn in through [Canvas](https://tulane.instructure.com/).  You will submit 4 fi
 
 You should submit a Zip file that contains all of the above components. You should rename the folder (before zipping it) to `Lastname.Project4`. Please make sure to zip and submit **only the files specifically listed here**.
 
+Example Folder Structure for Prof. Mattei:
+```
+- Mattei.Project4
+|- Mattei.weddingseating.mzn
+|- Mattei.Example.dzn
+|- ...
+------
+```
+
 ### Grading Rubric
 
 We expect all code to be written in a professional manner. That means there are comments where there needs to be, that the code is written in a general way that is (reasonably) efficient, and that you use naming conventions that others can understand.  If we open your code and we can't understand it, you will lose points even if it works.

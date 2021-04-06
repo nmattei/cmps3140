@@ -56,7 +56,6 @@ I really cannot stress the following enough...
 | Project 3: Multi-Agent Search | [Link Here](https://inst.eecs.berkeley.edu/~cs188/fa20/project2/) |
 | 2020 Berkeley Pacman Projects | [Link Here](https://inst.eecs.berkeley.edu/~cs188/fa20/projects/) |
 
-
 ### What To Turn In!
 
 Turn in through [Canvas](https://tulane.instructure.com/). You should submit a Zip file that contains a sub-folder with **all of the files from the project Multiagent**! At the top level you should also include a a text file that captures the **entire output** of the autograder.  Name the output capture `Lastname.Autograder.txt`. You should also include answers to the *written portion* questions below in your zip file.  This should be named `Lastname.WrittenAnswers.pdf`.
@@ -66,7 +65,7 @@ Example Folder Structure for Prof. Mattei:
 - Mattei.Project3
 |- Mattei.WrittenAnswers.pdf
 |- Mattei.Autograder.txt
-|- Search
+|- Multiagent
    |- pacman.py
    |- search.py
    |- multiAgents.py
@@ -74,7 +73,7 @@ Example Folder Structure for Prof. Mattei:
 ------
 ```
 
-You should rename the top level folder (before zipping it) to `Lastname.Project2` so that it is `LastName.Project2.zip`. You are not to modify any other files than the ones listed here, if you do we will not be able to run your code and you will lose points.
+You should rename the top level folder (before zipping it) to `Lastname.Project3` so that it is `LastName.Project3.zip`. You are not to modify any other files than the ones listed here, if you do we will not be able to run your code and you will lose points.
 
 ### Grading Rubric
 
