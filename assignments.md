@@ -27,7 +27,7 @@ For all assignments in this course please have a read over [Aire's Handy Coding 
 | 2 | 3/4 | [Pacman Informed Search and Modeling](./_projects/project2.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 3 | 3/25 | [Multi-Agent Search](./_projects/project3.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 | 4 | 4/13 | [Constraint Programming](./_projects/project4.md) | Follow the specific directions in the instructions and rubric! |
-| 5 | 4/29 | [Reinforcement Learning](./_projects/project5.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
+| 5 | ~~4/29~~ **4/30 at Midnight!** | [Reinforcement Learning](./_projects/project5.md) | Follow the specific directions in the instructions and rubric!  There are changes including needing a writeup and scoring from the Berkeley directions! |
 
 ## Homeworks
 
